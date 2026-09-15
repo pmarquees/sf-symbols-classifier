@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark" />
+    <title>SF Symbol Finder</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="./" aria-label="SF Symbol Finder home">
+          <span class="brand-mark" aria-hidden="true">SF</span>
+          <span>Symbol Finder</span>
+        </a>
+        <div class="model-pill" id="model-status" role="status" aria-live="polite">
+          <span class="status-dot" aria-hidden="true"></span>
+          <span>Loading model</span>
+        </div>
+      </header>
+
+      <section class="hero" aria-labelledby="page-title">
+        <p class="eyebrow">9,524 symbols · Runs in your browser</p>
+        <h1 id="page-title">Describe it.<br /><span>Find the symbol.</span></h1>
+        <p class="intro">
+          Type a short intent and the local classifier ranks matching SF Symbol names after every keystroke.
+        </p>
+      </section>
+
+      <section class="finder" aria-label="Symbol finder">
+        <div class="composer">
+          <label for="query">What should the symbol communicate?</label>
+          <textarea
+            id="query"
+            rows="3"
+            maxlength="160"
+            placeholder="A quiet alarm for tomorrow morning"
+            autocomplete="off"
+            autocapitalize="sentences"
+            spellcheck="true"
+            autofocus
+          ></textarea>
+          <div class="composer-footer">
+            <span id="input-hint">Start typing to run the model</span>
+            <button class="text-button" id="clear-button" type="button" hidden>Clear</button>
+          </div>
+        </div>
+
+        <div class="examples" aria-label="Example prompts">
+          <span>Try</span>
+          <button type="button" data-example="Share my location">Share my location</button>
+          <button type="button" data-example="A rainy evening">A rainy evening</button>
+          <button type="button" data-example="Start a video call">Start a video call</button>
+        </div>
+
+        <section class="results" aria-labelledby="results-title" aria-live="polite" aria-busy="true">
+          <div class="results-heading">
+            <div>
+              <p class="section-kicker">Live recommendation</p>
+              <h2 id="results-title">Waiting for the model</h2>
+            </div>
+            <span class="latency" id="latency"></span>
+          </div>
+
+          <article class="primary-result skeleton" id="primary-result">
+            <div class="rank-orb" aria-hidden="true">1</div>
+            <div class="primary-copy">
+              <span class="result-label">Best match</span>
+              <strong id="primary-name">Loading weights…</strong>
+            </div>
+            <button class="copy-button" id="primary-copy" type="button" disabled>Copy name</button>
+          </article>
+
+          <ol class="result-list" id="result-list" aria-label="More recommendations"></ol>
+          <p class="empty-message" id="empty-message" hidden>
+            Add a little more detail to get a recommendation.
+          </p>
+        </section>
+      </section>
+
+      <footer>
+        <p>SFS1 · 2.71 MB weights · No text leaves this device</p>
+        <p>Names are ready for <code>Image(systemName:)</code>.</p>
+      </footer>
+    </main>
+
+    <template id="result-template">
+      <li class="result-row">
+        <span class="result-rank"></span>
+        <div class="result-name-wrap">
+          <strong class="result-name"></strong>
+          <div class="score-track" aria-hidden="true"><span></span></div>
+        </div>
+        <button class="row-copy" type="button" aria-label="Copy symbol name">Copy</button>
+      </li>
+    </template>
+
+    <noscript>This demo needs JavaScript to run the local classifier.</noscript>
+    <script type="module" src="./app.mjs"></script>
+  </body>
+</html>

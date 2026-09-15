@@ -1,0 +1,35 @@
+{
+  "name": "sf-symbols-text-classifier",
+  "version": "1.0.0",
+  "description": "Tiny offline text classifier for ranking SF Symbols names",
+  "private": true,
+  "type": "module",
+  "main": "./JavaScript/sf-symbols-classifier.mjs",
+  "exports": {
+    ".": "./JavaScript/sf-symbols-classifier.mjs",
+    "./model": "./JavaScript/model.mjs"
+  },
+  "files": [
+    "JavaScript/sf-symbols-classifier.mjs",
+    "JavaScript/model.mjs",
+    "JavaScript/model/sf-symbols-classifier.sfs1",
+    "README.md",
+    "NOTICE.md"
+  ],
+  "scripts": {
+    "test": "node Tests/JavaScript/check-parity.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmarquees/sf-symbols-classifier.git"
+  },
+  "homepage": "https://github.com/pmarquees/sf-symbols-classifier#readme",
+  "bugs": {
+    "url": "https://github.com/pmarquees/sf-symbols-classifier/issues"
+  },
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18"
+  },
+  "sideEffects": false
+}

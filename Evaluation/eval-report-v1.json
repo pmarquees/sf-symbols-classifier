@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "project": "sf-symbols-classifier",
+  "catalog": {
+    "source": "SF Symbols 27",
+    "labels": 9524
+  },
+  "selected_candidate": "quality",
+  "selection_rule": "highest validation top-1 under 5000000-byte weight limit",
+  "export": {
+    "format": "SFS1",
+    "archive_file": "sf-symbols-classifier-v1.tar.gz",
+    "archive_bytes": 2025525,
+    "archive_sha256": "c8a536737e45f8518c31dec47acfed1fa117599528e37a64b3302e37e57da1f3",
+    "model_file": "sf-symbols-classifier.sfs1",
+    "model_bytes": 2714833,
+    "model_sha256": "7be17744d7a795725322b722f9268d2c9152fcf564232406524d2afc713d6ca8",
+    "weights_limit_bytes": 5000000,
+    "weights_limit_pass": true
+  },
+  "sealed_test": {
+    "top1": 0.6825160193539951,
+    "top5": 0.8544788806067739,
+    "float_top1": 0.6830652543481104,
+    "quantization_top1_delta": -0.0005492349941153,
+    "lexical_baseline_top1": 0.6750882699,
+    "by_style_top1": {
+      "terse": 0.89363037,
+      "clean": 0.86209602,
+      "verbose": 0.83903357,
+      "messy": 0.77580518,
+      "adversarial": 0.37480389,
+      "distractor": 0.34985880
+    },
+    "by_provenance_top1": {
+      "apple_search": 0.71341965,
+      "apple_category": 0.68024596,
+      "curated_v1": 0.48054146
+    }
+  },
+  "runtime_parity": {
+    "python_to_swift": {
+      "fixtures": 100,
+      "passed": true,
+      "swift_version": "6.3.2"
+    },
+    "python_to_javascript": {
+      "fixtures": 100,
+      "passed": true,
+      "node_major": 18
+    }
+  },
+  "runs": {
+    "catalog": "run_ca875325b368f6b50802db2a2bd59e21",
+    "dataset": "run_ea1109ac2861045957f8c595963676a6",
+    "smoke": "run_b3e6c9c55d9d59c70e63c00418f23b97",
+    "sweep": "run_d5254d35a0a8e11ccae4035a22a32bc3",
+    "export": "run_97cc05a97f9b148e2893b6c051212866",
+    "swift_parity": "run_b7c98b7452c2fa08727f92ae1a037700",
+    "release_verification": "run_4f7f24beb605ccaec6c77224c5ad17a7"
+  },
+  "evaluation_warning": "Validation and test prompts are deterministic Apple-metadata-derived synthetic examples, not real user queries; accuracy is optimistic until a frozen real-query set is available.",
+  "artifact_status": "Verified archive remains on the RunPod target because Mill artifact registration is resolving remote paths on the local host."
+}

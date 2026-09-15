@@ -1,0 +1,2502 @@
+[
+  {
+    "text": "favorite",
+    "predictions": [
+      {
+        "symbol": "heart",
+        "score": 236446
+      },
+      {
+        "symbol": "heart.square",
+        "score": 212200
+      },
+      {
+        "symbol": "water.waves.and.arrow.trianglehead.up",
+        "score": 204276
+      },
+      {
+        "symbol": "star.square",
+        "score": 200139
+      },
+      {
+        "symbol": "star.rectangle",
+        "score": 197897
+      }
+    ]
+  },
+  {
+    "text": "delete item",
+    "predictions": [
+      {
+        "symbol": "delete.backward",
+        "score": 424050
+      },
+      {
+        "symbol": "delete.left",
+        "score": 366159
+      },
+      {
+        "symbol": "delete.forward",
+        "score": 340309
+      },
+      {
+        "symbol": "delete.right",
+        "score": 338149
+      },
+      {
+        "symbol": "helmet",
+        "score": 323058
+      }
+    ]
+  },
+  {
+    "text": "go back",
+    "predictions": [
+      {
+        "symbol": "backpack",
+        "score": 241514
+      },
+      {
+        "symbol": "box.truck.badge.clock",
+        "score": 241357
+      },
+      {
+        "symbol": "backward",
+        "score": 215966
+      },
+      {
+        "symbol": "rectangle.stack.badge.person.crop",
+        "score": 208505
+      },
+      {
+        "symbol": "backward.circle",
+        "score": 208082
+      }
+    ]
+  },
+  {
+    "text": "hiking trail",
+    "predictions": [
+      {
+        "symbol": "signpost.and.arrowtriangle.up",
+        "score": 617792
+      },
+      {
+        "symbol": "figure.hiking",
+        "score": 614298
+      },
+      {
+        "symbol": "figure.hiking.circle",
+        "score": 573116
+      },
+      {
+        "symbol": "figure.hiking.circle.fill",
+        "score": 425785
+      },
+      {
+        "symbol": "signpost.right",
+        "score": 424899
+      }
+    ]
+  },
+  {
+    "text": "wireless network",
+    "predictions": [
+      {
+        "symbol": "wifi.circle",
+        "score": 610405
+      },
+      {
+        "symbol": "network",
+        "score": 579620
+      },
+      {
+        "symbol": "wifi.square",
+        "score": 554978
+      },
+      {
+        "symbol": "wifi",
+        "score": 513718
+      },
+      {
+        "symbol": "wifi.circle.fill",
+        "score": 510420
+      }
+    ]
+  },
+  {
+    "text": "take a photo",
+    "predictions": [
+      {
+        "symbol": "text.below.photo",
+        "score": 467776
+      },
+      {
+        "symbol": "photo.tv",
+        "score": 427381
+      },
+      {
+        "symbol": "photo",
+        "score": 410734
+      },
+      {
+        "symbol": "livephoto",
+        "score": 383489
+      },
+      {
+        "symbol": "photo.circle",
+        "score": 375942
+      }
+    ]
+  },
+  {
+    "text": "dark mode",
+    "predictions": [
+      {
+        "symbol": "moon",
+        "score": 519350
+      },
+      {
+        "symbol": "moon.circle",
+        "score": 433147
+      },
+      {
+        "symbol": "moon.fill",
+        "score": 400714
+      },
+      {
+        "symbol": "moon.circle.fill",
+        "score": 269571
+      },
+      {
+        "symbol": "moon.stars",
+        "score": 265581
+      }
+    ]
+  },
+  {
+    "text": "share this",
+    "predictions": [
+      {
+        "symbol": "square.and.arrow.up",
+        "score": 222702
+      },
+      {
+        "symbol": "shareplay",
+        "score": 219463
+      },
+      {
+        "symbol": "sharedwithyou",
+        "score": 163745
+      },
+      {
+        "symbol": "shareplay.slash",
+        "score": 161322
+      },
+      {
+        "symbol": "person.2.slash.fill",
+        "score": 158664
+      }
+    ]
+  },
+  {
+    "text": "warning",
+    "predictions": [
+      {
+        "symbol": "warninglight",
+        "score": 307643
+      },
+      {
+        "symbol": "tuningfork",
+        "score": 276270
+      },
+      {
+        "symbol": "figure.wrestling",
+        "score": 254855
+      },
+      {
+        "symbol": "sterlingsign.ring",
+        "score": 248322
+      },
+      {
+        "symbol": "inset.filled.trailinghalf.arrow.trailing.rectangle",
+        "score": 235871
+      }
+    ]
+  },
+  {
+    "text": "search",
+    "predictions": [
+      {
+        "symbol": "magnifyingglass.circle",
+        "score": 247808
+      },
+      {
+        "symbol": "magnifyingglass",
+        "score": 225085
+      },
+      {
+        "symbol": "app.grid.2x2",
+        "score": 192540
+      },
+      {
+        "symbol": "tshirt",
+        "score": 184201
+      },
+      {
+        "symbol": "character.magnify.zh",
+        "score": 175702
+      }
+    ]
+  },
+  {
+    "text": "an SF Symbol for multicolor 0 circle",
+    "predictions": [
+      {
+        "symbol": "teletype.answer.circle",
+        "score": 626525
+      },
+      {
+        "symbol": "bird.circle",
+        "score": 615594
+      },
+      {
+        "symbol": "lessthan.circle",
+        "score": 598458
+      },
+      {
+        "symbol": "trash.circle",
+        "score": 583355
+      },
+      {
+        "symbol": "0.circle",
+        "score": 556473
+      }
+    ]
+  },
+  {
+    "text": "use multicolor 06 circle, not interface window dashed",
+    "predictions": [
+      {
+        "symbol": "interface.window.dashed",
+        "score": 924485
+      },
+      {
+        "symbol": "4.calendar",
+        "score": 893981
+      },
+      {
+        "symbol": "moon.circle",
+        "score": 845500
+      },
+      {
+        "symbol": "circle.dotted",
+        "score": 782540
+      },
+      {
+        "symbol": "wind.circle",
+        "score": 781655
+      }
+    ]
+  },
+  {
+    "text": "For this interface, I need a compact icon that communicates multicolor 10 circle fill ar.",
+    "predictions": [
+      {
+        "symbol": "10.circle.fill.ar",
+        "score": 900310
+      },
+      {
+        "symbol": "21.circle.fill.ar",
+        "score": 735493
+      },
+      {
+        "symbol": "questionmark.circle.fill.ar",
+        "score": 714769
+      },
+      {
+        "symbol": "50.circle.fill.ar",
+        "score": 712262
+      },
+      {
+        "symbol": "00.circle.fill.ar",
+        "score": 691352
+      }
+    ]
+  },
+  {
+    "text": "an SF Symbol for arrows 15 arrow trianglehead counterclockwise",
+    "predictions": [
+      {
+        "symbol": "15.arrow.trianglehead.counterclockwise",
+        "score": 1027719
+      },
+      {
+        "symbol": "arrow.trianglehead.counterclockwise",
+        "score": 946721
+      },
+      {
+        "symbol": "15.arrow.trianglehead.counterclockwise.ar",
+        "score": 911026
+      },
+      {
+        "symbol": "15.arrow.trianglehead.counterclockwise.hi",
+        "score": 796749
+      },
+      {
+        "symbol": "poweroutlet.type.l",
+        "score": 744032
+      }
+    ]
+  },
+  {
+    "text": "use date 2 calendar hi, not rectangle badge sparkles",
+    "predictions": [
+      {
+        "symbol": "2.calendar.hi",
+        "score": 1149660
+      },
+      {
+        "symbol": "22.calendar.hi",
+        "score": 1091555
+      },
+      {
+        "symbol": "calendar.badge",
+        "score": 1065901
+      },
+      {
+        "symbol": "26.calendar.hi",
+        "score": 988713
+      },
+      {
+        "symbol": "22.circle.hi",
+        "score": 944219
+      }
+    ]
+  },
+  {
+    "text": "For this interface, I need a compact icon that communicates indices 24 circle fill.",
+    "predictions": [
+      {
+        "symbol": "24.circle.fill",
+        "score": 822187
+      },
+      {
+        "symbol": "textformat.ml",
+        "score": 606703
+      },
+      {
+        "symbol": "info.circle.fill",
+        "score": 600374
+      },
+      {
+        "symbol": "24.circle.fill.ar",
+        "score": 596101
+      },
+      {
+        "symbol": "4l.circle.fill",
+        "score": 581684
+      }
+    ]
+  },
+  {
+    "text": "an SF Symbol for multicolor 29 square fill ar",
+    "predictions": [
+      {
+        "symbol": "29.square.fill.ar",
+        "score": 898853
+      },
+      {
+        "symbol": "29.square.fill",
+        "score": 705991
+      },
+      {
+        "symbol": "24.square.fill.ar",
+        "score": 673062
+      },
+      {
+        "symbol": "9.square.fill.ar",
+        "score": 663775
+      },
+      {
+        "symbol": "29.square.ar",
+        "score": 656644
+      }
+    ]
+  },
+  {
+    "text": "use indices 33 square fill, not person crop rectangle badge plus",
+    "predictions": [
+      {
+        "symbol": "person.crop.rectangle.badge.plus",
+        "score": 1002759
+      },
+      {
+        "symbol": "plus.magnifyingglass",
+        "score": 896501
+      },
+      {
+        "symbol": "goforward.plus",
+        "score": 894335
+      },
+      {
+        "symbol": "inset.filled.center.rectangle.badge.plus",
+        "score": 893194
+      },
+      {
+        "symbol": "plus.square.fill.on.square.fill",
+        "score": 889870
+      }
+    ]
+  },
+  {
+    "text": "For this interface, I need a compact icon that communicates variable 4 circle ar.",
+    "predictions": [
+      {
+        "symbol": "4.circle.ar",
+        "score": 706549
+      },
+      {
+        "symbol": "0.circle.ar",
+        "score": 704467
+      },
+      {
+        "symbol": "33.circle.ar",
+        "score": 692239
+      },
+      {
+        "symbol": "03.circle.ar",
+        "score": 680196
+      },
+      {
+        "symbol": "figure.table.tennis.circle",
+        "score": 670038
+      }
+    ]
+  },
+  {
+    "text": "an SF Symbol for indices 45 circle fill ar",
+    "predictions": [
+      {
+        "symbol": "45.circle.fill.ar",
+        "score": 889701
+      },
+      {
+        "symbol": "45.circle.ar",
+        "score": 780178
+      },
+      {
+        "symbol": "5.circle.fill.ar",
+        "score": 773071
+      },
+      {
+        "symbol": "15.circle.fill.ar",
+        "score": 756481
+      },
+      {
+        "symbol": "25.circle.fill.ar",
+        "score": 745017
+      }
+    ]
+  },
+  {
+    "text": "use indices 5 circle hi, not gauge open with lines needle 33percent and arrowtriangle",
+    "predictions": [
+      {
+        "symbol": "gauge.open.with.lines.needle.33percent.and.arrowtriangle",
+        "score": 1343912
+      },
+      {
+        "symbol": "gauge.open.with.lines.needle.33percent.and.arrowtriangle.from.0percent.to.50percent",
+        "score": 1245028
+      },
+      {
+        "symbol": "car.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle",
+        "score": 1083840
+      },
+      {
+        "symbol": "figure.mind.and.body.circle",
+        "score": 1060456
+      },
+      {
+        "symbol": "link.circle",
+        "score": 1046460
+      }
+    ]
+  },
+  {
+    "text": "For this interface, I need a compact icon that communicates indices 8 circle fill.",
+    "predictions": [
+      {
+        "symbol": "8.circle.fill",
+        "score": 598557
+      },
+      {
+        "symbol": "s.circle.fill",
+        "score": 544307
+      },
+      {
+        "symbol": "plus.circle.fill",
+        "score": 526987
+      },
+      {
+        "symbol": "i.circle.fill",
+        "score": 526438
+      },
+      {
+        "symbol": "arrow.down.circle.fill",
+        "score": 522475
+      }
+    ]
+  },
+  {
+    "text": "travel up right",
+    "predictions": [
+      {
+        "symbol": "arrow.up.right",
+        "score": 610735
+      },
+      {
+        "symbol": "airplane.up.right",
+        "score": 606017
+      },
+      {
+        "symbol": "arrow.up.right.square",
+        "score": 549023
+      },
+      {
+        "symbol": "arrow.up.right.circle",
+        "score": 548216
+      },
+      {
+        "symbol": "right",
+        "score": 546109
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'antenna radiowaves left and right'; the actual icon should mean shape filled align horizontal center fill.",
+    "predictions": [
+      {
+        "symbol": "bolt.horizontal.fill",
+        "score": 1326955
+      },
+      {
+        "symbol": "antenna.radiowaves.left.and.right.circle.fill",
+        "score": 1320929
+      },
+      {
+        "symbol": "arrow.up.left.and.arrow.down.right.square.fill",
+        "score": 1252649
+      },
+      {
+        "symbol": "antenna.radiowaves.left.and.right.slash.circle.fill",
+        "score": 1230040
+      },
+      {
+        "symbol": "sensor.radiowaves.left.and.right.fill",
+        "score": 1201982
+      }
+    ]
+  },
+  {
+    "text": "sf symbl weather ai low pls",
+    "predictions": [
+      {
+        "symbol": "cloud.snow",
+        "score": 488984
+      },
+      {
+        "symbol": "rainbow",
+        "score": 476059
+      },
+      {
+        "symbol": "thermometer.low",
+        "score": 446735
+      },
+      {
+        "symbol": "aqi.low",
+        "score": 442544
+      },
+      {
+        "symbol": "wind.snow",
+        "score": 438102
+      }
+    ]
+  },
+  {
+    "text": "arrows arrow down forward and arrow up backward square",
+    "predictions": [
+      {
+        "symbol": "arrow.up.backward.and.arrow.down.forward.square",
+        "score": 986110
+      },
+      {
+        "symbol": "arrow.down.forward.and.arrow.up.backward.square",
+        "score": 823118
+      },
+      {
+        "symbol": "arrow.up.backward.and.arrow.down.forward.square.fill",
+        "score": 737682
+      },
+      {
+        "symbol": "arrow.down.backward.and.arrow.up.forward.square",
+        "score": 712254
+      },
+      {
+        "symbol": "arrow.down.forward.and.arrow.up.backward.square.fill",
+        "score": 696551
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'circle square fill'; the actual icon should mean multicolor arrow left.",
+    "predictions": [
+      {
+        "symbol": "arrow.left.square",
+        "score": 942012
+      },
+      {
+        "symbol": "arrow.left.square.fill",
+        "score": 917446
+      },
+      {
+        "symbol": "arrow.left.circle.fill",
+        "score": 766710
+      },
+      {
+        "symbol": "bell.square",
+        "score": 732773
+      },
+      {
+        "symbol": "arrow.clockwise.square",
+        "score": 713214
+      }
+    ]
+  },
+  {
+    "text": "sf symbl arrows arrow turn righ down pls",
+    "predictions": [
+      {
+        "symbol": "arrow.turn.down.right",
+        "score": 868224
+      },
+      {
+        "symbol": "arrow.turn.right.down",
+        "score": 863124
+      },
+      {
+        "symbol": "arrow.down.right",
+        "score": 846288
+      },
+      {
+        "symbol": "arrow.uturn.down",
+        "score": 782794
+      },
+      {
+        "symbol": "arrow.uturn.right",
+        "score": 769024
+      }
+    ]
+  },
+  {
+    "text": "fullscreen square filled arrow up left and arrow down right square fill",
+    "predictions": [
+      {
+        "symbol": "arrow.up.left.and.arrow.down.right.square.fill",
+        "score": 1770839
+      },
+      {
+        "symbol": "arrow.down.right.and.arrow.up.left.square.fill",
+        "score": 1470112
+      },
+      {
+        "symbol": "square.and.arrow.up.on.square.fill",
+        "score": 1409659
+      },
+      {
+        "symbol": "arrow.up.left.and.arrow.down.right.circle.fill",
+        "score": 1384226
+      },
+      {
+        "symbol": "speaker.square.fill",
+        "score": 1379640
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'pesetasign gauge chart lefthalf righthalf'; the actual icon should mean arrows arrow uturn up.",
+    "predictions": [
+      {
+        "symbol": "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.upper",
+        "score": 1325873
+      },
+      {
+        "symbol": "arrow.up.right",
+        "score": 1240117
+      },
+      {
+        "symbol": "arrow.uturn.up.square",
+        "score": 1119883
+      },
+      {
+        "symbol": "pointer.arrow.slash.square",
+        "score": 1093491
+      },
+      {
+        "symbol": "pointer.arrow.click",
+        "score": 1073303
+      }
+    ]
+  },
+  {
+    "text": "sf symbl multicolor arrowtiangle forward pls",
+    "predictions": [
+      {
+        "symbol": "arrowtriangle.forward",
+        "score": 510139
+      },
+      {
+        "symbol": "tray",
+        "score": 469861
+      },
+      {
+        "symbol": "multiply.circle.fill",
+        "score": 443179
+      },
+      {
+        "symbol": "arrow.forward",
+        "score": 439198
+      },
+      {
+        "symbol": "arrowshape.forward",
+        "score": 434880
+      }
+    ]
+  },
+  {
+    "text": "indices b circle fill",
+    "predictions": [
+      {
+        "symbol": "b.circle.fill",
+        "score": 682018
+      },
+      {
+        "symbol": "bahtsign.circle.fill",
+        "score": 533321
+      },
+      {
+        "symbol": "lightbulb.circle.fill",
+        "score": 524495
+      },
+      {
+        "symbol": "figure.pilates.circle.fill",
+        "score": 522012
+      },
+      {
+        "symbol": "bitcoinsign.circle.fill",
+        "score": 508554
+      }
+    ]
+  },
+  {
+    "text": "an SF Symbol for charge circle",
+    "predictions": [
+      {
+        "symbol": "message.badge.circle",
+        "score": 636448
+      },
+      {
+        "symbol": "character.circle",
+        "score": 530306
+      },
+      {
+        "symbol": "teletype.circle",
+        "score": 513675
+      },
+      {
+        "symbol": "circle.badge.checkmark",
+        "score": 497376
+      },
+      {
+        "symbol": "e.circle",
+        "score": 497295
+      }
+    ]
+  },
+  {
+    "text": "use notifications badge circle, not widget large",
+    "predictions": [
+      {
+        "symbol": "bell.badge.circle",
+        "score": 1473580
+      },
+      {
+        "symbol": "bell.badge",
+        "score": 1418045
+      },
+      {
+        "symbol": "ellipsis.circle.badge",
+        "score": 1284852
+      },
+      {
+        "symbol": "bell.square",
+        "score": 1185435
+      },
+      {
+        "symbol": "bell.circle",
+        "score": 1182289
+      }
+    ]
+  },
+  {
+    "text": "For this interface, I need a compact icon that communicates remove circle filled bolt circle fill.",
+    "predictions": [
+      {
+        "symbol": "bolt.circle.fill",
+        "score": 1142122
+      },
+      {
+        "symbol": "bolt.horizontal.circle.fill",
+        "score": 984932
+      },
+      {
+        "symbol": "antenna.radiowaves.left.and.right.circle.fill",
+        "score": 951381
+      },
+      {
+        "symbol": "heart.circle.fill",
+        "score": 912972
+      },
+      {
+        "symbol": "bell.circle.fill",
+        "score": 874659
+      }
+    ]
+  },
+  {
+    "text": "an SF Symbol for devices briefcase sensor tag radiowaves left and right fill",
+    "predictions": [
+      {
+        "symbol": "briefcase.sensor.tag.radiowaves.left.and.right.fill",
+        "score": 1412820
+      },
+      {
+        "symbol": "briefcase.sensor.tag.radiowaves.left.and.right",
+        "score": 1147445
+      },
+      {
+        "symbol": "backpack.sensor.tag.radiowaves.left.and.right.fill",
+        "score": 1024053
+      },
+      {
+        "symbol": "sensor.radiowaves.left.and.right.fill",
+        "score": 970142
+      },
+      {
+        "symbol": "jacket.sensor.tag.radiowaves.left.and.right.fill",
+        "score": 968474
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'arrowshape forward fill'; the actual icon should mean multicolor calendar badge checkmark.",
+    "predictions": [
+      {
+        "symbol": "cart",
+        "score": 1168767
+      },
+      {
+        "symbol": "calendar.badge.checkmark",
+        "score": 981609
+      },
+      {
+        "symbol": "calendar.badge",
+        "score": 848955
+      },
+      {
+        "symbol": "calendar.badge.clock",
+        "score": 845031
+      },
+      {
+        "symbol": "hifispeaker.badge.checkmark.fill",
+        "score": 842668
+      }
+    ]
+  },
+  {
+    "text": "sf symbl multicolr car rear hazardsign pls",
+    "predictions": [
+      {
+        "symbol": "car.rear.hazardsign",
+        "score": 972345
+      },
+      {
+        "symbol": "car.rear.hazardsign.fill",
+        "score": 782310
+      },
+      {
+        "symbol": "24.calendar.ar",
+        "score": 645452
+      },
+      {
+        "symbol": "hazardsign",
+        "score": 639077
+      },
+      {
+        "symbol": "13.calendar.ar",
+        "score": 635834
+      }
+    ]
+  },
+  {
+    "text": "variable car top radiowaves front",
+    "predictions": [
+      {
+        "symbol": "car.top.radiowaves.front",
+        "score": 902625
+      },
+      {
+        "symbol": "character.circle.te",
+        "score": 761935
+      },
+      {
+        "symbol": "car.top.frontleft.arrowtriangle",
+        "score": 720696
+      },
+      {
+        "symbol": "car.top.radiowaves.rear.left.car.top.front",
+        "score": 693751
+      },
+      {
+        "symbol": "autostartstop.trianglebadge.exclamationmark",
+        "score": 687777
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'iphone gen2 motion'; the actual icon should mean currency centsign.",
+    "predictions": [
+      {
+        "symbol": "centsign",
+        "score": 1280171
+      },
+      {
+        "symbol": "iphone.gen2.motion",
+        "score": 1076672
+      },
+      {
+        "symbol": "centsign.circle.fill",
+        "score": 1035865
+      },
+      {
+        "symbol": "numbersign",
+        "score": 1025445
+      },
+      {
+        "symbol": "dongsign",
+        "score": 1005085
+      }
+    ]
+  },
+  {
+    "text": "sf symbl ulticolor character bubble fill mr pls",
+    "predictions": [
+      {
+        "symbol": "character.bubble.fill.mr",
+        "score": 877594
+      },
+      {
+        "symbol": "character.book.closed.fill.mr",
+        "score": 683293
+      },
+      {
+        "symbol": "character.bubble.mr",
+        "score": 676154
+      },
+      {
+        "symbol": "character.circle.fill.mr",
+        "score": 675966
+      },
+      {
+        "symbol": "text.bubble.fill",
+        "score": 631289
+      }
+    ]
+  },
+  {
+    "text": "variable chart bar horizontal page fill",
+    "predictions": [
+      {
+        "symbol": "chart.bar.horizontal.page.fill",
+        "score": 1106372
+      },
+      {
+        "symbol": "chart.bar.doc.horizontal.fill",
+        "score": 790205
+      },
+      {
+        "symbol": "line.horizontal.3.circle.fill",
+        "score": 764786
+      },
+      {
+        "symbol": "chart.bar.fill",
+        "score": 755765
+      },
+      {
+        "symbol": "button.horizontal.fill",
+        "score": 747751
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'm4 button horizontal fill'; the actual icon should mean arrows chevron right circle.",
+    "predictions": [
+      {
+        "symbol": "chevron.right.circle.fill",
+        "score": 885527
+      },
+      {
+        "symbol": "chevron.right.circle",
+        "score": 869938
+      },
+      {
+        "symbol": "m4.button.horizontal",
+        "score": 832323
+      },
+      {
+        "symbol": "chevron.left.chevron.right",
+        "score": 796899
+      },
+      {
+        "symbol": "arrow.left.arrow.right.circle",
+        "score": 753362
+      }
+    ]
+  },
+  {
+    "text": "sf symbl higlights pls",
+    "predictions": [
+      {
+        "symbol": "highlighter",
+        "score": 428933
+      },
+      {
+        "symbol": "headlight.high.beam",
+        "score": 387543
+      },
+      {
+        "symbol": "light.recessed",
+        "score": 362477
+      },
+      {
+        "symbol": "sportscourt",
+        "score": 348228
+      },
+      {
+        "symbol": "warninglight",
+        "score": 345697
+      }
+    ]
+  },
+  {
+    "text": "nature cloud rain circle",
+    "predictions": [
+      {
+        "symbol": "cloud.rain.circle",
+        "score": 1109339
+      },
+      {
+        "symbol": "cloud.sun.rain.circle",
+        "score": 1016640
+      },
+      {
+        "symbol": "cloud.circle",
+        "score": 983366
+      },
+      {
+        "symbol": "cloud.rain.circle.fill",
+        "score": 957501
+      },
+      {
+        "symbol": "cloud.drizzle.circle",
+        "score": 898322
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'globe central south asia'; the actual icon should mean sports circle filled cricket ball circle fill.",
+    "predictions": [
+      {
+        "symbol": "cricket.ball.circle.fill",
+        "score": 1322695
+      },
+      {
+        "symbol": "soccerball.circle.fill",
+        "score": 1220072
+      },
+      {
+        "symbol": "microbe.circle.fill",
+        "score": 1108242
+      },
+      {
+        "symbol": "ticket.circle.fill",
+        "score": 1107713
+      },
+      {
+        "symbol": "poweroutlet.type.c.square.fill",
+        "score": 1082332
+      }
+    ]
+  },
+  {
+    "text": "sf symbl devices desktopcomputer badge shiel checkmark pls",
+    "predictions": [
+      {
+        "symbol": "desktopcomputer.badge.checkmark",
+        "score": 1295529
+      },
+      {
+        "symbol": "desktopcomputer.badge.shield.checkmark",
+        "score": 1222359
+      },
+      {
+        "symbol": "deskview",
+        "score": 1106194
+      },
+      {
+        "symbol": "desktopcomputer",
+        "score": 1086876
+      },
+      {
+        "symbol": "lock.desktopcomputer",
+        "score": 1064046
+      }
+    ]
+  },
+  {
+    "text": "copy filled document on document fill",
+    "predictions": [
+      {
+        "symbol": "document.on.document.fill",
+        "score": 1657985
+      },
+      {
+        "symbol": "document.on.trash.fill",
+        "score": 1562156
+      },
+      {
+        "symbol": "lock.document.fill",
+        "score": 1484985
+      },
+      {
+        "symbol": "document.fill",
+        "score": 1478820
+      },
+      {
+        "symbol": "document.badge.ellipsis.fill",
+        "score": 1469648
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'waveform path ecg'; the actual icon should mean home drop keypad rectangle.",
+    "predictions": [
+      {
+        "symbol": "waveform.path.ecg.rectangle",
+        "score": 993355
+      },
+      {
+        "symbol": "checkmark.rectangle",
+        "score": 962606
+      },
+      {
+        "symbol": "person.crop.rectangle",
+        "score": 933779
+      },
+      {
+        "symbol": "drop.keypad.rectangle",
+        "score": 931666
+      },
+      {
+        "symbol": "drop",
+        "score": 927849
+      }
+    ]
+  },
+  {
+    "text": "sf symbl address envelope and and raised pls",
+    "predictions": [
+      {
+        "symbol": "envelope.and.hand.raised",
+        "score": 1443933
+      },
+      {
+        "symbol": "envelope.and.arrow.trianglehead.branch",
+        "score": 1195275
+      },
+      {
+        "symbol": "envelope",
+        "score": 1183121
+      },
+      {
+        "symbol": "envelope.and.hand.raised.fill",
+        "score": 1143214
+      },
+      {
+        "symbol": "envelope.circle.fill",
+        "score": 1138151
+      }
+    ]
+  },
+  {
+    "text": "objectsandtools ev charger arrowtriangle right",
+    "predictions": [
+      {
+        "symbol": "ev.charger.arrowtriangle.right",
+        "score": 1193722
+      },
+      {
+        "symbol": "externaldrive.trianglebadge.exclamationmark",
+        "score": 970548
+      },
+      {
+        "symbol": "ev.charger.arrowtriangle.right.fill",
+        "score": 945899
+      },
+      {
+        "symbol": "car.top.arrowtriangle.rear.right",
+        "score": 896304
+      },
+      {
+        "symbol": "5.calendar.hi",
+        "score": 866301
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'suv side arrowtriangle up fill'; the actual icon should mean multicolor externaldrive fill badge minus.",
+    "predictions": [
+      {
+        "symbol": "externaldrive.fill.badge.minus",
+        "score": 1143990
+      },
+      {
+        "symbol": "water.waves.and.arrow.trianglehead.up",
+        "score": 1075229
+      },
+      {
+        "symbol": "hand.thumbsup.fill",
+        "score": 1049127
+      },
+      {
+        "symbol": "suv.side.arrowtriangle.up.fill",
+        "score": 1031877
+      },
+      {
+        "symbol": "rectangle.stack.fill.badge.minus",
+        "score": 1020378
+      }
+    ]
+  },
+  {
+    "text": "sf symbl child figure 2 ascnding pls",
+    "predictions": [
+      {
+        "symbol": "figure.2.ascending",
+        "score": 983632
+      },
+      {
+        "symbol": "figure.2.and.child.holdinghands",
+        "score": 934910
+      },
+      {
+        "symbol": "figure.2",
+        "score": 859690
+      },
+      {
+        "symbol": "figure.2.left.holdinghands",
+        "score": 826769
+      },
+      {
+        "symbol": "figure.seated.side.airbag.on.2",
+        "score": 763107
+      }
+    ]
+  },
+  {
+    "text": "sports circle filled figure equestrian sports circle fill",
+    "predictions": [
+      {
+        "symbol": "figure.equestrian.sports.circle.fill",
+        "score": 1623081
+      },
+      {
+        "symbol": "figure.disc.sports.circle.fill",
+        "score": 1290952
+      },
+      {
+        "symbol": "figure.martial.arts.circle.fill",
+        "score": 1249101
+      },
+      {
+        "symbol": "figure.strengthtraining.functional.circle.fill",
+        "score": 1197979
+      },
+      {
+        "symbol": "sportscourt.circle.fill",
+        "score": 1183121
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'dongsign building classical fill'; the actual icon should mean human figure mixed cardio.",
+    "predictions": [
+      {
+        "symbol": "figure.hand.cycling",
+        "score": 922668
+      },
+      {
+        "symbol": "figure.elliptical",
+        "score": 864584
+      },
+      {
+        "symbol": "figure.climbing",
+        "score": 847890
+      },
+      {
+        "symbol": "figure.snowboarding",
+        "score": 840458
+      },
+      {
+        "symbol": "figure.cooldown",
+        "score": 809938
+      }
+    ]
+  },
+  {
+    "text": "sf symbl human figur seated seatbelt left drive seats 2 3 2 fill pls",
+    "predictions": [
+      {
+        "symbol": "figure.seated.seatbelt.left.drive.seats.2.3.2.fill",
+        "score": 1247372
+      },
+      {
+        "symbol": "figure.seated.seatbelt.left.drive.seats.2.3.3.fill",
+        "score": 984142
+      },
+      {
+        "symbol": "figure.seated.seatbelt.left.drive.seats.2.fill",
+        "score": 967486
+      },
+      {
+        "symbol": "figure.seated.seatbelt.left.drive.seats.2.3.2",
+        "score": 912857
+      },
+      {
+        "symbol": "figure.seated.seatbelt.left.drive.seats.2.3.fill",
+        "score": 908152
+      }
+    ]
+  },
+  {
+    "text": "human figure skiing crosscountry",
+    "predictions": [
+      {
+        "symbol": "figure.skiing.crosscountry",
+        "score": 1229819
+      },
+      {
+        "symbol": "figure.skiing.crosscountry.circle",
+        "score": 1083455
+      },
+      {
+        "symbol": "figure.skiing.crosscountry.circle.fill",
+        "score": 1063872
+      },
+      {
+        "symbol": "figure.rolling",
+        "score": 983908
+      },
+      {
+        "symbol": "figure.cross.training",
+        "score": 959290
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'hand palm facing fill'; the actual icon should mean walking circle filled figure walk suitcase rolling circle fill.",
+    "predictions": [
+      {
+        "symbol": "figure.walk.suitcase.rolling.circle.fill",
+        "score": 1815166
+      },
+      {
+        "symbol": "suitcase.rolling.and.film.circle.fill",
+        "score": 1558028
+      },
+      {
+        "symbol": "figure.walk.circle.fill",
+        "score": 1509951
+      },
+      {
+        "symbol": "figure.rolling.circle.fill",
+        "score": 1416187
+      },
+      {
+        "symbol": "figure.hand.cycling.circle.fill",
+        "score": 1402462
+      }
+    ]
+  },
+  {
+    "text": "sf symbl multiolor flask fill pls",
+    "predictions": [
+      {
+        "symbol": "flask.fill",
+        "score": 749235
+      },
+      {
+        "symbol": "flag.fill",
+        "score": 702137
+      },
+      {
+        "symbol": "flame.fill",
+        "score": 604491
+      },
+      {
+        "symbol": "trash.fill",
+        "score": 564691
+      },
+      {
+        "symbol": "flag.slash.fill",
+        "score": 523019
+      }
+    ]
+  },
+  {
+    "text": "maps fuelpump slash fill",
+    "predictions": [
+      {
+        "symbol": "fuelpump.slash.fill",
+        "score": 1081672
+      },
+      {
+        "symbol": "fuelpump.exclamationmark.fill",
+        "score": 813884
+      },
+      {
+        "symbol": "eraser.slash.fill",
+        "score": 798032
+      },
+      {
+        "symbol": "fuelpump.slash",
+        "score": 795078
+      },
+      {
+        "symbol": "character.book.closed.fill.sat",
+        "score": 770817
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request '20 calendar ar'; the actual icon should mean multicolor greaterthan square.",
+    "predictions": [
+      {
+        "symbol": "greaterthan.circle",
+        "score": 944280
+      },
+      {
+        "symbol": "poweroutlet.type.i.square",
+        "score": 928905
+      },
+      {
+        "symbol": "arrow.clockwise.square",
+        "score": 903445
+      },
+      {
+        "symbol": "i.square",
+        "score": 900971
+      },
+      {
+        "symbol": "20.calendar.ar",
+        "score": 894034
+      }
+    ]
+  },
+  {
+    "text": "sf symbl like circle hand thumbsup circe pls",
+    "predictions": [
+      {
+        "symbol": "hand.thumbsup.circle",
+        "score": 1190870
+      },
+      {
+        "symbol": "hand.thumbsdown.hand.thumbsup",
+        "score": 946801
+      },
+      {
+        "symbol": "hand.thumbsdown.circle",
+        "score": 946670
+      },
+      {
+        "symbol": "hand.thumbsup.circle.fill",
+        "score": 933660
+      },
+      {
+        "symbol": "arrow.up.to.line.circle",
+        "score": 896315
+      }
+    ]
+  },
+  {
+    "text": "devices hifispeaker 2 badge exclamationmark fill",
+    "predictions": [
+      {
+        "symbol": "hifispeaker.2.badge.exclamationmark.fill",
+        "score": 1444881
+      },
+      {
+        "symbol": "hifispeaker.badge.exclamationmark.fill",
+        "score": 1183769
+      },
+      {
+        "symbol": "hifispeaker.2.badge.exclamationmark",
+        "score": 1173137
+      },
+      {
+        "symbol": "hifispeaker.2.badge.checkmark.fill",
+        "score": 1101361
+      },
+      {
+        "symbol": "27.square.fill.hi",
+        "score": 992177
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'bahtsign square fill'; the actual icon should mean devices homepod and homepod mini badge minus fill.",
+    "predictions": [
+      {
+        "symbol": "homepod.and.homepod.mini.badge.minus.fill",
+        "score": 1394952
+      },
+      {
+        "symbol": "minus.square.fill",
+        "score": 1334364
+      },
+      {
+        "symbol": "m.square",
+        "score": 1308755
+      },
+      {
+        "symbol": "millsign.square",
+        "score": 1294281
+      },
+      {
+        "symbol": "homepod.mini.badge.minus.fill",
+        "score": 1284251
+      }
+    ]
+  },
+  {
+    "text": "sf symbl start page lash pls",
+    "predictions": [
+      {
+        "symbol": "play.slash",
+        "score": 734620
+      },
+      {
+        "symbol": "square.stack.3d.up.slash",
+        "score": 653233
+      },
+      {
+        "symbol": "restart",
+        "score": 642844
+      },
+      {
+        "symbol": "stairs",
+        "score": 580081
+      },
+      {
+        "symbol": "tsa.slash",
+        "score": 557580
+      }
+    ]
+  },
+  {
+    "text": "For this interface, I need a compact icon that communicates automotive info square.",
+    "predictions": [
+      {
+        "symbol": "info.square",
+        "score": 733417
+      },
+      {
+        "symbol": "infinity.circle",
+        "score": 614836
+      },
+      {
+        "symbol": "figure.child.circle",
+        "score": 602170
+      },
+      {
+        "symbol": "tsa.circle",
+        "score": 591607
+      },
+      {
+        "symbol": "autostartstop",
+        "score": 575249
+      }
+    ]
+  },
+  {
+    "text": "an SF Symbol for devices iphone gen1 landscape slash",
+    "predictions": [
+      {
+        "symbol": "iphone.gen1.landscape.slash",
+        "score": 1208675
+      },
+      {
+        "symbol": "iphone.gen1",
+        "score": 1075890
+      },
+      {
+        "symbol": "iphone.gen1.slash",
+        "score": 1018051
+      },
+      {
+        "symbol": "iphone.gen2.landscape.slash",
+        "score": 975482
+      },
+      {
+        "symbol": "iphone.gen1.radiowaves.left.and.right",
+        "score": 953458
+      }
+    ]
+  },
+  {
+    "text": "use objectsandtools key car radiowaves forward rtl, not rt rectangle roundedtop",
+    "predictions": [
+      {
+        "symbol": "key.car.radiowaves.forward.rtl",
+        "score": 1468497
+      },
+      {
+        "symbol": "key.radiowaves.forward.slash",
+        "score": 1147070
+      },
+      {
+        "symbol": "speaker.wave.2",
+        "score": 1090197
+      },
+      {
+        "symbol": "zr.rectangle.roundedtop",
+        "score": 1076227
+      },
+      {
+        "symbol": "person.crop.rectangle",
+        "score": 1065628
+      }
+    ]
+  },
+  {
+    "text": "For this interface, I need a compact icon that communicates multicolor ladybug slash circle.",
+    "predictions": [
+      {
+        "symbol": "ladybug.slash.circle",
+        "score": 1228555
+      },
+      {
+        "symbol": "ladybug.slash",
+        "score": 1031521
+      },
+      {
+        "symbol": "ladybug.slash.circle.fill",
+        "score": 955196
+      },
+      {
+        "symbol": "trash.slash.circle",
+        "score": 951609
+      },
+      {
+        "symbol": "heart.slash.circle",
+        "score": 868475
+      }
+    ]
+  },
+  {
+    "text": "home light ribbon fill",
+    "predictions": [
+      {
+        "symbol": "light.ribbon.fill",
+        "score": 845083
+      },
+      {
+        "symbol": "balloon.fill",
+        "score": 698689
+      },
+      {
+        "symbol": "lightbulb.fill",
+        "score": 647647
+      },
+      {
+        "symbol": "light.beacon.min.fill",
+        "score": 646638
+      },
+      {
+        "symbol": "light.overhead.right.fill",
+        "score": 623141
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'arrow uturn forward'; the actual icon should mean health list clipboard.",
+    "predictions": [
+      {
+        "symbol": "arrow.uturn.forward",
+        "score": 969557
+      },
+      {
+        "symbol": "forward",
+        "score": 968391
+      },
+      {
+        "symbol": "clipboard",
+        "score": 962144
+      },
+      {
+        "symbol": "goforward",
+        "score": 881122
+      },
+      {
+        "symbol": "person.wave.2.inward",
+        "score": 867984
+      }
+    ]
+  },
+  {
+    "text": "sf symbl padlock lock open laptopcompute pls",
+    "predictions": [
+      {
+        "symbol": "lock.open.laptopcomputer",
+        "score": 1462902
+      },
+      {
+        "symbol": "lock.open.ipad",
+        "score": 1218776
+      },
+      {
+        "symbol": "lock.laptopcomputer",
+        "score": 1191839
+      },
+      {
+        "symbol": "lock.open.display",
+        "score": 1173330
+      },
+      {
+        "symbol": "lock.square.stack",
+        "score": 1169181
+      }
+    ]
+  },
+  {
+    "text": "For this interface, I need a compact icon that communicates commerce malaysianringgitsign.",
+    "predictions": [
+      {
+        "symbol": "malaysianringgitsign",
+        "score": 1198561
+      },
+      {
+        "symbol": "malaysianringgitsign.circle",
+        "score": 989158
+      },
+      {
+        "symbol": "malaysianringgitsign.square",
+        "score": 971566
+      },
+      {
+        "symbol": "poweroutlet.type.g",
+        "score": 938904
+      },
+      {
+        "symbol": "malaysianringgitsign.square.fill",
+        "score": 929605
+      }
+    ]
+  },
+  {
+    "text": "an SF Symbol for audio circle mic circle",
+    "predictions": [
+      {
+        "symbol": "mic.circle",
+        "score": 1054424
+      },
+      {
+        "symbol": "camera.macro.circle",
+        "score": 997239
+      },
+      {
+        "symbol": "figure.mixed.cardio.circle",
+        "score": 963313
+      },
+      {
+        "symbol": "mic.circle.fill",
+        "score": 954412
+      },
+      {
+        "symbol": "microbe.circle",
+        "score": 931620
+      }
+    ]
+  },
+  {
+    "text": "use automotive minus plus batteryblock stack exclamationmark, not carseat right up and down",
+    "predictions": [
+      {
+        "symbol": "minus.plus.batteryblock.stack.exclamationmark",
+        "score": 1252036
+      },
+      {
+        "symbol": "automatic.headlight.high.beam",
+        "score": 1250131
+      },
+      {
+        "symbol": "moon",
+        "score": 1200991
+      },
+      {
+        "symbol": "base.unit",
+        "score": 1166922
+      },
+      {
+        "symbol": "carseat.right.up.and.down",
+        "score": 1107602
+      }
+    ]
+  },
+  {
+    "text": "For this interface, I need a compact icon that communicates connectivity network badge shield half filled.",
+    "predictions": [
+      {
+        "symbol": "network.badge.shield.half.filled",
+        "score": 1145010
+      },
+      {
+        "symbol": "envelope.badge.shield.half.filled",
+        "score": 940904
+      },
+      {
+        "symbol": "wifi.square.fill",
+        "score": 852662
+      },
+      {
+        "symbol": "wifi.circle.fill",
+        "score": 845513
+      },
+      {
+        "symbol": "shield.checkered",
+        "score": 825491
+      }
+    ]
+  },
+  {
+    "text": "an SF Symbol for multicolor paintpalette",
+    "predictions": [
+      {
+        "symbol": "paintpalette",
+        "score": 694710
+      },
+      {
+        "symbol": "paperplane",
+        "score": 632985
+      },
+      {
+        "symbol": "touchid",
+        "score": 606835
+      },
+      {
+        "symbol": "tent",
+        "score": 574450
+      },
+      {
+        "symbol": "21.calendar",
+        "score": 564558
+      }
+    ]
+  },
+  {
+    "text": "use multicolor person 2 badge plus fill, not figure seated side air windshield",
+    "predictions": [
+      {
+        "symbol": "hifispeaker.2.badge.plus.fill",
+        "score": 1058265
+      },
+      {
+        "symbol": "person.2.badge.plus.fill",
+        "score": 1017406
+      },
+      {
+        "symbol": "homepod.mini.2.badge.plus.fill",
+        "score": 946208
+      },
+      {
+        "symbol": "person.crop.circle.badge.fill",
+        "score": 934041
+      },
+      {
+        "symbol": "person.badge.plus.fill",
+        "score": 886458
+      }
+    ]
+  },
+  {
+    "text": "For this interface, I need a compact icon that communicates people filled person crop circle badge questionmark fill.",
+    "predictions": [
+      {
+        "symbol": "person.crop.circle.badge.questionmark.fill",
+        "score": 1807851
+      },
+      {
+        "symbol": "person.crop.circle.badge.exclamationmark.fill",
+        "score": 1341276
+      },
+      {
+        "symbol": "person.crop.circle.fill",
+        "score": 1292216
+      },
+      {
+        "symbol": "person.crop.circle.badge.magnifyingglass.fill",
+        "score": 1272961
+      },
+      {
+        "symbol": "stop.circle.fill",
+        "score": 1222399
+      }
+    ]
+  },
+  {
+    "text": "an SF Symbol for commerce peruviansolessign",
+    "predictions": [
+      {
+        "symbol": "peruviansolessign",
+        "score": 1121548
+      },
+      {
+        "symbol": "peruviansolessign.circle",
+        "score": 908000
+      },
+      {
+        "symbol": "peruviansolessign.square",
+        "score": 807309
+      },
+      {
+        "symbol": "peruviansolessign.circle.fill",
+        "score": 778580
+      },
+      {
+        "symbol": "peruviansolessign.ring",
+        "score": 769296
+      }
+    ]
+  },
+  {
+    "text": "use add phone fill badge plus, not circle filled ipad landscape",
+    "predictions": [
+      {
+        "symbol": "plusminus.circle.fill",
+        "score": 985484
+      },
+      {
+        "symbol": "person.crop.circle.fill.badge.plus",
+        "score": 974200
+      },
+      {
+        "symbol": "phone.fill.badge.plus",
+        "score": 958993
+      },
+      {
+        "symbol": "paperplane.circle.fill",
+        "score": 889458
+      },
+      {
+        "symbol": "rectangle.fill.badge.plus",
+        "score": 878230
+      }
+    ]
+  },
+  {
+    "text": "For this interface, I need a compact icon that communicates media play diamond fill.",
+    "predictions": [
+      {
+        "symbol": "play.diamond.fill",
+        "score": 1076083
+      },
+      {
+        "symbol": "metronome.fill",
+        "score": 998971
+      },
+      {
+        "symbol": "dial.medium.fill",
+        "score": 926722
+      },
+      {
+        "symbol": "diamond.fill",
+        "score": 882514
+      },
+      {
+        "symbol": "play.diamond",
+        "score": 880908
+      }
+    ]
+  },
+  {
+    "text": "an SF Symbol for cursor pointer arrow click badge clock",
+    "predictions": [
+      {
+        "symbol": "pointer.arrow.click.badge.clock",
+        "score": 1354621
+      },
+      {
+        "symbol": "cursorarrow.click.badge.clock",
+        "score": 1171107
+      },
+      {
+        "symbol": "arrowshape.turn.up.backward.badge.clock",
+        "score": 1106045
+      },
+      {
+        "symbol": "person.crop.circle.badge.clock",
+        "score": 1074849
+      },
+      {
+        "symbol": "clock.badge.checkmark",
+        "score": 1058148
+      }
+    ]
+  },
+  {
+    "text": "use home poweroutlet type i fill, not rectangle center inset filled badge plus",
+    "predictions": [
+      {
+        "symbol": "poweroutlet.type.i.fill",
+        "score": 1218449
+      },
+      {
+        "symbol": "poweroutlet.type.i.square.fill",
+        "score": 1006068
+      },
+      {
+        "symbol": "poweroutlet.type.b.fill",
+        "score": 959204
+      },
+      {
+        "symbol": "rectangle.center.inset.filled.badge.plus",
+        "score": 947768
+      },
+      {
+        "symbol": "poweroutlet.type.e.square.fill",
+        "score": 933991
+      }
+    ]
+  },
+  {
+    "text": "sf symbl communication questionmark video tl pls",
+    "predictions": [
+      {
+        "symbol": "questionmark.video",
+        "score": 1058868
+      },
+      {
+        "symbol": "questionmark.video.rtl",
+        "score": 843964
+      },
+      {
+        "symbol": "video.badge.questionmark.fill",
+        "score": 824002
+      },
+      {
+        "symbol": "video",
+        "score": 818138
+      },
+      {
+        "symbol": "video.badge.questionmark",
+        "score": 786082
+      }
+    ]
+  },
+  {
+    "text": "drm slash",
+    "predictions": [
+      {
+        "symbol": "rectangle.on.rectangle.slash",
+        "score": 608793
+      },
+      {
+        "symbol": "rectangle.on.rectangle.slash.fill",
+        "score": 528887
+      },
+      {
+        "symbol": "rectangle.and.arrow.up.right.and.arrow.down.left.slash",
+        "score": 519500
+      },
+      {
+        "symbol": "rectangle.on.rectangle.slash.circle",
+        "score": 518595
+      },
+      {
+        "symbol": "key.slash",
+        "score": 512251
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'inset left half square dashed micro'; the actual icon should mean editing rotate left fill.",
+    "predictions": [
+      {
+        "symbol": "calendar.day.timeline.left",
+        "score": 1195489
+      },
+      {
+        "symbol": "inset.left.half.square.dashed.micro",
+        "score": 1172050
+      },
+      {
+        "symbol": "rotate.left",
+        "score": 1158122
+      },
+      {
+        "symbol": "radiowaves.left",
+        "score": 1113005
+      },
+      {
+        "symbol": "inset.left.half.filled.square.dashed.micro",
+        "score": 1086021
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'headphones circle fill'; the actual icon should mean multicolor sharedwithyou circle fill.",
+    "predictions": [
+      {
+        "symbol": "sharedwithyou.circle.fill",
+        "score": 1164061
+      },
+      {
+        "symbol": "key.circle.fill",
+        "score": 990852
+      },
+      {
+        "symbol": "heart.circle.fill",
+        "score": 900458
+      },
+      {
+        "symbol": "cart.circle.fill",
+        "score": 829729
+      },
+      {
+        "symbol": "person.2.circle.fill",
+        "score": 825110
+      }
+    ]
+  },
+  {
+    "text": "sf symbl currencies singapredollarsign pls",
+    "predictions": [
+      {
+        "symbol": "singaporedollarsign",
+        "score": 1205405
+      },
+      {
+        "symbol": "singaporedollarsign.square",
+        "score": 1072602
+      },
+      {
+        "symbol": "dollarsign",
+        "score": 985138
+      },
+      {
+        "symbol": "numbersign",
+        "score": 954733
+      },
+      {
+        "symbol": "australiandollarsign",
+        "score": 948376
+      }
+    ]
+  },
+  {
+    "text": "objectsandtools speaker minus",
+    "predictions": [
+      {
+        "symbol": "speaker.minus",
+        "score": 1020836
+      },
+      {
+        "symbol": "speaker.square.fill",
+        "score": 831125
+      },
+      {
+        "symbol": "minus.diamond",
+        "score": 806299
+      },
+      {
+        "symbol": "hifispeaker.badge.minus",
+        "score": 799059
+      },
+      {
+        "symbol": "minus",
+        "score": 786494
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'creditcard and 123'; the actual icon should mean import up circle.",
+    "predictions": [
+      {
+        "symbol": "square.and.arrow.up.circle",
+        "score": 1178810
+      },
+      {
+        "symbol": "creditcard.and.123",
+        "score": 1000161
+      },
+      {
+        "symbol": "square.and.arrow.up",
+        "score": 971472
+      },
+      {
+        "symbol": "square.and.arrow.up.circle.fill",
+        "score": 854619
+      },
+      {
+        "symbol": "creditcard.circle",
+        "score": 820587
+      }
+    ]
+  },
+  {
+    "text": "sf symbl ommerce sterlingsign ring dashed pls",
+    "predictions": [
+      {
+        "symbol": "sterlingsign.ring.dashed",
+        "score": 1242676
+      },
+      {
+        "symbol": "sterlingsign.circle.fill",
+        "score": 937716
+      },
+      {
+        "symbol": "sterlingsign.square.fill",
+        "score": 929622
+      },
+      {
+        "symbol": "sterlingsign.ring",
+        "score": 907953
+      },
+      {
+        "symbol": "lirasign.ring.dashed",
+        "score": 902272
+      }
+    ]
+  },
+  {
+    "text": "multicolor sunset",
+    "predictions": [
+      {
+        "symbol": "sunset",
+        "score": 681213
+      },
+      {
+        "symbol": "sunset.fill",
+        "score": 565397
+      },
+      {
+        "symbol": "thermometer.sun",
+        "score": 562321
+      },
+      {
+        "symbol": "sunrise",
+        "score": 525683
+      },
+      {
+        "symbol": "sun.haze",
+        "score": 507414
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'airpods chargingcase wireless'; the actual icon should mean multicolor tengesign building classical.",
+    "predictions": [
+      {
+        "symbol": "danishkronesign.building.classical",
+        "score": 1194087
+      },
+      {
+        "symbol": "tengesign.building.classical",
+        "score": 1060471
+      },
+      {
+        "symbol": "airpods.chargingcase.wireless",
+        "score": 1004435
+      },
+      {
+        "symbol": "cloud.fog.circle.fill",
+        "score": 985332
+      },
+      {
+        "symbol": "eurozonesign.building.classical",
+        "score": 985211
+      }
+    ]
+  },
+  {
+    "text": "sf symbl multicolor textforat characters dottedunderline ar pls",
+    "predictions": [
+      {
+        "symbol": "textformat.characters.dottedunderline.ar",
+        "score": 1113908
+      },
+      {
+        "symbol": "textformat.characters.dottedunderline.mr",
+        "score": 962436
+      },
+      {
+        "symbol": "textformat.characters.dottedunderline.te",
+        "score": 848922
+      },
+      {
+        "symbol": "character.square.ar",
+        "score": 805431
+      },
+      {
+        "symbol": "figure.seated.side.left.air.distribution.upper.angled.and.dottedline.and.lower.angled",
+        "score": 799607
+      }
+    ]
+  },
+  {
+    "text": "automotive tow hitch",
+    "predictions": [
+      {
+        "symbol": "tow.hitch",
+        "score": 717738
+      },
+      {
+        "symbol": "gauge.with.dots.needle.bottom.0percent",
+        "score": 566028
+      },
+      {
+        "symbol": "car.side.rear.tow.hitch",
+        "score": 558497
+      },
+      {
+        "symbol": "a.book.closed.th",
+        "score": 551986
+      },
+      {
+        "symbol": "character.book.closed.th",
+        "score": 515150
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'automatic brakesignal'; the actual icon should mean multicolor tshirt fill.",
+    "predictions": [
+      {
+        "symbol": "archivebox.fill",
+        "score": 924221
+      },
+      {
+        "symbol": "ticket.fill",
+        "score": 857607
+      },
+      {
+        "symbol": "multiply",
+        "score": 846195
+      },
+      {
+        "symbol": "automatic.brakesignal",
+        "score": 824333
+      },
+      {
+        "symbol": "nosign.app.fill",
+        "score": 794180
+      }
+    ]
+  },
+  {
+    "text": "sf symbl communication video bubble lft pls",
+    "predictions": [
+      {
+        "symbol": "video.bubble",
+        "score": 1158014
+      },
+      {
+        "symbol": "video",
+        "score": 1012705
+      },
+      {
+        "symbol": "video.bubble.left",
+        "score": 903379
+      },
+      {
+        "symbol": "video.slash",
+        "score": 856399
+      },
+      {
+        "symbol": "video.badge.ellipsis",
+        "score": 854545
+      }
+    ]
+  },
+  {
+    "text": "objectsandtools waterbottle",
+    "predictions": [
+      {
+        "symbol": "waterbottle",
+        "score": 605516
+      },
+      {
+        "symbol": "water.waves",
+        "score": 554109
+      },
+      {
+        "symbol": "tent",
+        "score": 496661
+      },
+      {
+        "symbol": "waterbottle.fill",
+        "score": 482920
+      },
+      {
+        "symbol": "speaker.wave.1",
+        "score": 464060
+      }
+    ]
+  },
+  {
+    "text": "Ignore the quoted request 'figure hand cycling circle fill'; the actual icon should mean remove square wifi square.",
+    "predictions": [
+      {
+        "symbol": "wifi.square",
+        "score": 1521811
+      },
+      {
+        "symbol": "square.circle",
+        "score": 1213160
+      },
+      {
+        "symbol": "square",
+        "score": 1149661
+      },
+      {
+        "symbol": "hand.raised.square",
+        "score": 1117316
+      },
+      {
+        "symbol": "hare.circle",
+        "score": 1108225
+      }
+    ]
+  }
+]

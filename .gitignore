@@ -1,0 +1,10 @@
+.DS_Store
+.build/
+dist/
+artifacts/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
