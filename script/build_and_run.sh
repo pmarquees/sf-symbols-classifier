@@ -63,7 +63,7 @@ case "$MODE" in
         /usr/bin/open -n "$APP_BUNDLE"
         ;;
     *)
-        echo "Usage: sh scripts/build-macos-demo.sh [--debug|--logs|--telemetry|--verify]" >&2
+        echo "Usage: ./script/build_and_run.sh [--debug|--logs|--telemetry|--verify]" >&2
         exit 64
         ;;
 esac

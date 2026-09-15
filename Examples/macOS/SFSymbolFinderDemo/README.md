@@ -8,7 +8,7 @@ from the copy of SF Symbols installed with macOS.
 From the repository root:
 
 ```sh
-sh scripts/build-macos-demo.sh --verify
+./script/build_and_run.sh --verify
 ```
 
 The script builds the nested SwiftPM package, stages

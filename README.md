@@ -102,7 +102,7 @@ python3 scripts/verify_release.py
 Build and open the native macOS demo:
 
 ```sh
-sh scripts/build-macos-demo.sh
+./script/build_and_run.sh
 ```
 
 Run the browser demo from the repository root:
