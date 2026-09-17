@@ -1,22 +1,21 @@
 {
+  "dev_family_top1": 0.85,
   "javascript_runtime": "JavaScript/sf-symbols-classifier.mjs",
   "labels": 9524,
+  "model": "sf-symbols-classifier",
   "model_bytes": 2714833,
   "model_format": "SFS1",
   "model_paths": [
     "Sources/SFSymbolsClassifier/Resources/sf-symbols-classifier.sfs1",
     "JavaScript/model/sf-symbols-classifier.sfs1"
   ],
-  "model_sha256": "7be17744d7a795725322b722f9268d2c9152fcf564232406524d2afc713d6ca8",
+  "model_sha256": "44506fd4bf15a24af891ab16d6e594c1bb5a824c009c48f922abcbeaa0513b7a",
   "parity": {
-    "javascript": "100/100",
-    "swift": "100/100"
+    "javascript": "100/100 \u2192 v2"
   },
-  "schema_version": 1,
-  "source_archive_sha256": "c8a536737e45f8518c31dec47acfed1fa117599528e37a64b3302e37e57da1f3",
+  "schema_version": 2,
   "swift_runtime": "Sources/SFSymbolsClassifier/SFSymbolsClassifier.swift",
-  "synthetic_test_top1": 0.6825160193539951,
-  "synthetic_test_top5": 0.8544788806067739,
-  "weights_limit_bytes": 5000000,
-  "weights_limit_pass": true
+  "synthetic_test_top1": 0.6691251471165163,
+  "synthetic_test_top5": 0.8520465542042631,
+  "weights_limit_bytes": 5000000
 }
