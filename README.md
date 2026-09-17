@@ -24,7 +24,7 @@ Add the repository as a Swift Package dependency:
 ```swift
 .package(
     url: "https://github.com/pmarquees/sf-symbols-classifier.git",
-    from: "1.0.0"
+    from: "2.0.0"
 )
 ```
 
@@ -48,7 +48,7 @@ The package supports macOS 13 and iOS 16 or newer.
 Until the package is published to npm, install it directly from GitHub:
 
 ```sh
-npm install github:pmarquees/sf-symbols-classifier#v1.0.0
+npm install github:pmarquees/sf-symbols-classifier#v2.0.0
 ```
 
 Load the bundled model in Node.js:

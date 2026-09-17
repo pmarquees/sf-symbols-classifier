@@ -1,6 +1,6 @@
 {
   "name": "sf-symbols-text-classifier",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Tiny offline text classifier for ranking SF Symbols names",
   "private": true,
   "type": "module",
