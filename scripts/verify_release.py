@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verify that both SDKs contain the immutable v1 model release."""
+"""Verify that both SDKs contain the current v2 model release."""
 
 from __future__ import annotations
 
@@ -8,7 +8,7 @@ import json
 from pathlib import Path
 
 
-MODEL_SHA256 = "7be17744d7a795725322b722f9268d2c9152fcf564232406524d2afc713d6ca8"
+MODEL_SHA256 = "44506fd4bf15a24af891ab16d6e594c1bb5a824c009c48f922abcbeaa0513b7a"
 MODEL_BYTES = 2_714_833
 WEIGHTS_LIMIT_BYTES = 5_000_000
 
@@ -47,9 +47,9 @@ def main() -> None:
     manifest_path = root / "Model/manifest.json"
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     if manifest.get("model_sha256") != MODEL_SHA256:
-        raise RuntimeError("manifest model_sha256 does not match the v1 release")
+        raise RuntimeError("manifest model_sha256 does not match the v2 release")
     if manifest.get("model_bytes") != MODEL_BYTES:
-        raise RuntimeError("manifest model_bytes does not match the v1 release")
+        raise RuntimeError("manifest model_bytes does not match the v2 release")
     if manifest.get("model_paths") != [str(path) for path in relative_paths]:
         raise RuntimeError("manifest model_paths do not match the SDK layout")
     if MODEL_BYTES >= WEIGHTS_LIMIT_BYTES:

@@ -1,0 +1,148 @@
+{
+  "candidates": {
+    "iterA": {
+      "dev_exact_top1": 0.675,
+      "dev_family_top1": 0.8,
+      "test_top1": 0.6711913168562835,
+      "test_top5": 0.853118870145155
+    },
+    "iterC": {
+      "dev_exact_top1": 0.7,
+      "dev_family_top1": 0.8,
+      "test_top1": 0.6738590296848437,
+      "test_top5": 0.8549496534588727
+    },
+    "iterD": {
+      "dev_exact_top1": 0.775,
+      "dev_family_top1": 0.85,
+      "test_top1": 0.6691251471165163,
+      "test_top5": 0.8520465542042631
+    },
+    "quality": {
+      "dev_exact_top1": 0.65,
+      "dev_family_top1": 0.75,
+      "test_top1": 0.5340133385641428,
+      "test_top5": 0.7695043808029293
+    }
+  },
+  "dev": {
+    "exact_top1": 0.775,
+    "exact_top5": 0.85,
+    "family_top1": 0.85,
+    "family_top5": 0.875,
+    "rows": 40,
+    "user_reported": [
+      {
+        "expected": "airplane",
+        "families": [
+          "airplane"
+        ],
+        "family_top1": true,
+        "family_top5": true,
+        "text": "Flight",
+        "top1": "airplane",
+        "top5": [
+          "airplane",
+          "lightbulb",
+          "flashlight.off.fill",
+          "airplane.circle",
+          "light.overhead.right"
+        ]
+      },
+      {
+        "expected": "studentdesk",
+        "families": [
+          "studentdesk"
+        ],
+        "family_top1": true,
+        "family_top5": true,
+        "text": "Start of the school year",
+        "top1": "studentdesk",
+        "top5": [
+          "studentdesk",
+          "backpack",
+          "pencil",
+          "play",
+          "graduationcap"
+        ]
+      },
+      {
+        "expected": "suitcase",
+        "families": [
+          "suitcase",
+          "airplane"
+        ],
+        "family_top1": true,
+        "family_top5": true,
+        "text": "Vacation",
+        "top1": "suitcase",
+        "top5": [
+          "suitcase",
+          "location",
+          "graduationcap",
+          "exclamationmark.triangle",
+          "pill"
+        ]
+      },
+      {
+        "expected": "airplane",
+        "families": [
+          "airplane",
+          "suitcase"
+        ],
+        "family_top1": true,
+        "family_top5": true,
+        "text": "Trip to Germany",
+        "top1": "airplane",
+        "top5": [
+          "airplane",
+          "suitcase",
+          "takeoutbag.and.cup.and.straw",
+          "flashlight.off.fill",
+          "lightbulb"
+        ]
+      }
+    ]
+  },
+  "evaluation_gates": {
+    "quantization_top1_delta": -0.00026,
+    "weights_limit_bytes": 5000000,
+    "weights_limit_pass": true
+  },
+  "model": "sf-symbols-classifier v2 (iterD)",
+  "note": "Catalog test is byte-identical to v1 (38,235 rows; v1 scores 0.6825 on it). dev.jsonl (40 rows) is frozen and never trained on.",
+  "schema_version": 2,
+  "user_reported_fixed": [
+    {
+      "Flight": "airplane"
+    },
+    {
+      "Start of the school year": "studentdesk"
+    },
+    {
+      "Vacation": "suitcase"
+    },
+    {
+      "Trip to Germany": "airplane"
+    }
+  ],
+  "v1_baseline": {
+    "catalog_test_top1": 0.6825,
+    "catalog_test_top5": 0.8545,
+    "dev_family_top1": 0.3,
+    "dev_user_reported_all_failed": true
+  },
+  "winner_config": {
+    "buckets": 16384,
+    "dataset": "dataset-v2d",
+    "dim": 96,
+    "epochs": 18,
+    "priority_families": [
+      "airplane",
+      "studentdesk",
+      "suitcase"
+    ],
+    "priority_net": 12,
+    "vibe_share": 0.228
+  }
+}

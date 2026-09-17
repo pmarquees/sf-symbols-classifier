@@ -78,7 +78,7 @@ Sources/        Swift library and bundled model
 JavaScript/     JavaScript runtime and bundled model
 Examples/       Native macOS and browser demos
 Tests/          Swift and JavaScript parity checks
-Evaluation/     Frozen v1 evaluation report
+Evaluation/     Frozen v1 and v2 evaluation reports
 Model/          Release manifest and checksums
 scripts/        Dataset, training, export, and verification tools
 Documentation/  Runtime notes and the Hugging Face model card
@@ -88,7 +88,7 @@ The model is duplicated inside the Swift and JavaScript packages so both are
 independently installable and work offline. Both copies must have this SHA-256:
 
 ```text
-7be17744d7a795725322b722f9268d2c9152fcf564232406524d2afc713d6ca8
+44506fd4bf15a24af891ab16d6e594c1bb5a824c009c48f922abcbeaa0513b7a
 ```
 
 Run the release identity check after changing either package:
@@ -115,18 +115,30 @@ Then open <http://localhost:8080/Examples/Web/>.
 
 ## Evaluation
 
+The bundled model is v2. v1 figures are shown alongside for comparison.
+
 | Gate | Result |
 | --- | ---: |
-| Synthetic metadata-derived top-1 | 68.25% |
-| Synthetic metadata-derived top-5 | 85.45% |
+| Synthetic metadata-derived top-1 | 66.91% (v1: 68.25%) |
+| Synthetic metadata-derived top-5 | 85.20% (v1: 85.45%) |
+| Natural-phrase regression, family top-1 | 85.0% (v1: 30.0%) |
 | Python to Swift parity | 100 / 100 |
 | Python to JavaScript parity | 100 / 100 |
 | Model size | 2,714,833 bytes |
 
-These prompts were generated deterministically from catalog metadata. They are
-not real user searches, so the scores are a development benchmark, not proof
-of product quality. Short, ambiguous prompts and closely related symbol
-variants remain difficult.
+v2 trades a little synthetic accuracy for a large gain on natural phrasing.
+The synthetic split is generated deterministically from catalog metadata and is
+byte-identical across both releases, so the small top-1 drop is measured on the
+same 38,235 rows. The natural-phrase gate is a frozen 40-row set of
+hand-written prompts that is never trained on: v1 ranked the right symbol
+family first for 30% of them, v2 for 85%, including the four reported misses
+("Flight", "Start of the school year", "Vacation", "Trip to Germany").
+
+Neither split is real user search traffic, so treat both as development
+benchmarks rather than proof of product quality. Short, ambiguous prompts and
+closely related symbol variants remain difficult.
+
+Full reports live under `Evaluation/`.
 
 Run the shipped parity checks with:
 

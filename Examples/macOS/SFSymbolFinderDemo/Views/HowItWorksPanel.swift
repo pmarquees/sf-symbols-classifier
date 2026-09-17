@@ -1,6 +1,6 @@
 import SwiftUI
 
-/// Explains the bundled SFS1 model. Figures come from the v1 export manifest and sealed eval report.
+/// Explains the bundled SFS1 model. Figures come from the v2 export manifest and sealed eval report.
 struct HowItWorksPanel: View {
     @Binding var isPresented: Bool
 
@@ -74,16 +74,18 @@ struct HowItWorksPanel: View {
         PanelSection(title: "How it was trained") {
             Bullet("Examples come from Apple’s SF Symbols 27 catalog, including symbol names, search keywords, and categories, plus a small hand-curated set of UI intents such as “delete” → trash.")
             Bullet("Each example is rewritten in six styles: clean, terse, verbose, messy, with distractors, and adversarial, so the model copes with how people really type.")
-            Bullet("Several candidates were trained in PyTorch. The winner had the best validation accuracy while staying under a 5 MB limit.")
-            Bullet("Its weights were then squeezed into 8-bit integers, costing just 0.05 points of accuracy.")
+            Bullet("About a quarter of the training mix is natural intent: phrases someone would actually type, like “vacation” or “start of the school year”, mapped to the symbol family they mean.")
+            Bullet("Several candidates were trained in PyTorch. The winner was picked on a frozen set of natural phrases it never trained on, while staying under a 5 MB limit.")
+            Bullet("Its weights were then squeezed into 8-bit integers, costing just 0.03 points of accuracy.")
         }
     }
 
     private var accuracy: some View {
         PanelSection(title: "How good is it?") {
             VStack(spacing: 12) {
-                AccuracyBar(label: "Right answer is #1", value: 0.683, emphasized: true)
-                AccuracyBar(label: "Right answer in top 5", value: 0.854, emphasized: true)
+                AccuracyBar(label: "Right answer is #1", value: 0.669, emphasized: true)
+                AccuracyBar(label: "Right answer in top 5", value: 0.852, emphasized: true)
+                AccuracyBar(label: "Natural phrases, right family is #1", value: 0.85, emphasized: true)
             }
 
             Text("By prompt style (top 1)")
@@ -92,16 +94,16 @@ struct HowItWorksPanel: View {
                 .padding(.top, 4)
 
             VStack(spacing: 8) {
-                AccuracyBar(label: "Terse", value: 0.894)
-                AccuracyBar(label: "Clean", value: 0.862)
-                AccuracyBar(label: "Verbose", value: 0.839)
-                AccuracyBar(label: "Messy", value: 0.776)
-                AccuracyBar(label: "Adversarial", value: 0.375)
-                AccuracyBar(label: "Distractor", value: 0.350)
+                AccuracyBar(label: "Terse", value: 0.885)
+                AccuracyBar(label: "Clean", value: 0.843)
+                AccuracyBar(label: "Verbose", value: 0.807)
+                AccuracyBar(label: "Messy", value: 0.767)
+                AccuracyBar(label: "Adversarial", value: 0.373)
+                AccuracyBar(label: "Distractor", value: 0.340)
             }
 
             Label {
-                Text("Measured on held-out prompts generated from Apple’s metadata, not real searches, so treat these numbers as optimistic. Scores rank symbols; they aren’t confidence percentages.")
+                Text("The first two bars come from held-out prompts generated from Apple’s metadata, not real searches, so treat them as optimistic. The third is a small frozen set of hand-written natural phrases. Scores rank symbols; they aren’t confidence percentages.")
                     .fixedSize(horizontal: false, vertical: true)
             } icon: {
                 Image(systemName: "info.circle")

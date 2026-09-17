@@ -2,6 +2,7 @@
 .build/
 dist/
 artifacts/
+.mill/
 .venv/
 __pycache__/
 *.pyc

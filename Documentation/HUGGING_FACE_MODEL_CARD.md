@@ -18,6 +18,10 @@ A compact, offline classifier that maps a short English phrase to ranked
 SF Symbols 27 names. It is designed for live icon suggestions while someone
 types and ships with dependency-free Swift and JavaScript runtimes.
 
+The current release is v2, which adds a natural-intent training layer over
+Apple's catalog metadata so that everyday phrasing such as "vacation" or
+"start of the school year" resolves to the symbol a person actually means.
+
 The SDK source, tests, training scripts, and demos live on
 [GitHub](https://github.com/pmarquees/sf-symbols-classifier).
 
@@ -29,7 +33,7 @@ weights limit. Both runtimes consume the same weights.
 The release bundle is stored as a base64-armored tarball:
 
 ```text
-sf-symbols-classifier-v1.tar.gz.b64
+sf-symbols-classifier-v2.tar.gz.b64
 ```
 
 Decode and unpack it with Python 3:
@@ -39,21 +43,24 @@ python3 - <<'PY'
 from pathlib import Path
 import base64
 
-source = Path("sf-symbols-classifier-v1.tar.gz.b64")
-target = Path("sf-symbols-classifier-v1.tar.gz")
+source = Path("sf-symbols-classifier-v2.tar.gz.b64")
+target = Path("sf-symbols-classifier-v2.tar.gz")
 target.write_bytes(base64.b64decode(b"".join(source.read_bytes().split()), validate=True))
 print(target)
 PY
 
-tar -xzf sf-symbols-classifier-v1.tar.gz
+tar -xzf sf-symbols-classifier-v2.tar.gz
 ```
 
 The decoded archive contains:
 
 ```text
 sf-symbols-classifier.sfs1
-runtime/swift/SFSymbolsClassifier.swift
-runtime/js/sf-symbols-classifier.mjs
+export.manifest.json
+parity-fixtures.json
+runtime/SFSymbolsClassifier.swift
+runtime/sf-symbols-classifier.mjs
+runtime/model.mjs
 ```
 
 ## Swift
@@ -76,7 +83,7 @@ Use `NSImage(systemSymbolName:accessibilityDescription:)` in AppKit or
 
 ## JavaScript
 
-Import `runtime/js/sf-symbols-classifier.mjs` as an ES module and load the same
+Import `runtime/sf-symbols-classifier.mjs` as an ES module and load the same
 `.sfs1` weights. The runtime is dependency-free and works in modern browsers
 and Node.js 18 or newer.
 
@@ -89,33 +96,49 @@ APIs.
 
 | Gate | Result |
 | --- | ---: |
-| Frozen synthetic top-1 accuracy | 0.682516 |
-| Frozen synthetic top-5 accuracy | 0.854479 |
+| Frozen synthetic top-1 accuracy | 0.669125 (v1: 0.682516) |
+| Frozen synthetic top-5 accuracy | 0.852047 (v1: 0.854479) |
+| Natural-phrase regression, family top-1 | 0.85 (v1: 0.30) |
+| Natural-phrase regression, exact top-1 | 0.775 |
 | Python to Swift parity | 100 / 100 fixtures |
 | Python to JavaScript parity | 100 / 100 fixtures |
 | Label count | 9,524 |
 | Model weights | 2,714,833 bytes |
 | Weights limit | 5,000,000 bytes |
 
-The validation and test prompts were generated deterministically from catalog
-metadata. They were not collected from real users, so these scores are a
-development benchmark rather than proof of production quality on natural
-product copy. Evaluate the model on your own phrases before relying on it.
+The synthetic test split is generated deterministically from catalog metadata
+and is byte-identical to the one used for v1 (38,235 rows), so the small top-1
+decrease is measured on the same prompts. v2 spends that accuracy on natural
+phrasing: the frozen 40-row natural-phrase regression, which is never trained
+on, improves from 0.30 to 0.85 family top-1, and the four previously reported
+failures ("Flight", "Start of the school year", "Vacation", "Trip to Germany")
+are now correct at rank 1.
+
+Neither split was collected from real users, so these scores are a development
+benchmark rather than proof of production quality on natural product copy.
+Evaluate the model on your own phrases before relying on it.
 
 ## Release identity
 
-- Model format: `SFS1`
+- Release: `v2-sfsymbols27-int8`
+- Model format: `SFS1`, symmetric int8 per tensor
 - Model SHA-256:
-  `7be17744d7a795725322b722f9268d2c9152fcf564232406524d2afc713d6ca8`
+  `44506fd4bf15a24af891ab16d6e594c1bb5a824c009c48f922abcbeaa0513b7a`
+- Model size: 2,714,833 bytes
 - Decoded archive SHA-256:
-  `c8a536737e45f8518c31dec47acfed1fa117599528e37a64b3302e37e57da1f3`
-- Decoded archive size: 2,025,525 bytes
-- Training and export compute spend: $0.219416875
+  `cc35936ddc011dac5aae8ec52086c10cd4813faccfc19b6d44a5f1d3df29e547`
+- Decoded archive size: 2,015,628 bytes
+- Selected candidate: `iterD`, chosen on the frozen natural-phrase regression
+  with catalog test top-1 as tie-break
 
 ## Limitations
 
-- Training prompts are English-oriented and metadata-derived.
+- Training prompts are English-oriented and mostly metadata-derived.
 - Short or ambiguous phrases can map to several plausible symbols.
+- The natural-phrase regression is hand-authored and only 40 rows, so the 0.85
+  family top-1 figure carries a wide confidence interval.
+- The architecture matches hashed character n-grams, so a phrase whose
+  substrings collide with an unrelated symbol name can misrank it.
 - Closely related variants such as filled, circled, or badged symbols can be
   difficult to distinguish.
 - Symbol availability depends on the user's OS version.

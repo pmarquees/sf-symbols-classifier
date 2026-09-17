@@ -4,23 +4,23 @@
     "predictions": [
       {
         "symbol": "heart",
-        "score": 236446
+        "score": 366557
       },
       {
-        "symbol": "heart.square",
-        "score": 212200
+        "symbol": "heart.fill",
+        "score": 348995
       },
       {
-        "symbol": "water.waves.and.arrow.trianglehead.up",
-        "score": 204276
+        "symbol": "star.fill",
+        "score": 336379
       },
       {
-        "symbol": "star.square",
-        "score": 200139
+        "symbol": "heart.circle",
+        "score": 328024
       },
       {
-        "symbol": "star.rectangle",
-        "score": 197897
+        "symbol": "star",
+        "score": 323982
       }
     ]
   },
@@ -28,24 +28,24 @@
     "text": "delete item",
     "predictions": [
       {
-        "symbol": "delete.backward",
-        "score": 424050
+        "symbol": "minus.circle",
+        "score": 605427
       },
       {
-        "symbol": "delete.left",
-        "score": 366159
-      },
-      {
-        "symbol": "delete.forward",
-        "score": 340309
+        "symbol": "xmark.circle",
+        "score": 341813
       },
       {
         "symbol": "delete.right",
-        "score": 338149
+        "score": 329376
       },
       {
-        "symbol": "helmet",
-        "score": 323058
+        "symbol": "envelope.circle",
+        "score": 322403
+      },
+      {
+        "symbol": "delete.backward",
+        "score": 293639
       }
     ]
   },
@@ -54,23 +54,23 @@
     "predictions": [
       {
         "symbol": "backpack",
-        "score": 241514
+        "score": 259412
+      },
+      {
+        "symbol": "arrow.counterclockwise",
+        "score": 258454
+      },
+      {
+        "symbol": "point.topright.arrow.triangle.backward.to.point.bottomleft.scurvepath",
+        "score": 228573
       },
       {
         "symbol": "box.truck.badge.clock",
-        "score": 241357
+        "score": 221640
       },
       {
-        "symbol": "backward",
-        "score": 215966
-      },
-      {
-        "symbol": "rectangle.stack.badge.person.crop",
-        "score": 208505
-      },
-      {
-        "symbol": "backward.circle",
-        "score": 208082
+        "symbol": "backpack.fill",
+        "score": 221247
       }
     ]
   },
@@ -78,24 +78,24 @@
     "text": "hiking trail",
     "predictions": [
       {
-        "symbol": "signpost.and.arrowtriangle.up",
-        "score": 617792
-      },
-      {
         "symbol": "figure.hiking",
-        "score": 614298
+        "score": 986411
       },
       {
         "symbol": "figure.hiking.circle",
-        "score": 573116
+        "score": 684654
       },
       {
         "symbol": "figure.hiking.circle.fill",
-        "score": 425785
+        "score": 602625
       },
       {
-        "symbol": "signpost.right",
-        "score": 424899
+        "symbol": "signpost.and.arrowtriangle.up",
+        "score": 523373
+      },
+      {
+        "symbol": "paintbrush",
+        "score": 495050
       }
     ]
   },
@@ -103,24 +103,24 @@
     "text": "wireless network",
     "predictions": [
       {
-        "symbol": "wifi.circle",
-        "score": 610405
-      },
-      {
-        "symbol": "network",
-        "score": 579620
+        "symbol": "wifi",
+        "score": 741575
       },
       {
         "symbol": "wifi.square",
-        "score": 554978
+        "score": 617873
       },
       {
-        "symbol": "wifi",
-        "score": 513718
+        "symbol": "wifi.circle",
+        "score": 605311
+      },
+      {
+        "symbol": "network",
+        "score": 561446
       },
       {
         "symbol": "wifi.circle.fill",
-        "score": 510420
+        "score": 554814
       }
     ]
   },
@@ -128,24 +128,24 @@
     "text": "take a photo",
     "predictions": [
       {
-        "symbol": "text.below.photo",
-        "score": 467776
+        "symbol": "photo",
+        "score": 511245
       },
       {
         "symbol": "photo.tv",
-        "score": 427381
+        "score": 441329
       },
       {
-        "symbol": "photo",
-        "score": 410734
+        "symbol": "text.below.photo",
+        "score": 423899
       },
       {
-        "symbol": "livephoto",
-        "score": 383489
+        "symbol": "photo.artframe",
+        "score": 415107
       },
       {
-        "symbol": "photo.circle",
-        "score": 375942
+        "symbol": "photo.on.rectangle.angled",
+        "score": 367760
       }
     ]
   },
@@ -154,23 +154,23 @@
     "predictions": [
       {
         "symbol": "moon",
-        "score": 519350
+        "score": 446465
+      },
+      {
+        "symbol": "suitcase.circle",
+        "score": 403467
       },
       {
         "symbol": "moon.circle",
-        "score": 433147
+        "score": 377543
       },
       {
         "symbol": "moon.fill",
-        "score": 400714
+        "score": 348611
       },
       {
-        "symbol": "moon.circle.fill",
-        "score": 269571
-      },
-      {
-        "symbol": "moon.stars",
-        "score": 265581
+        "symbol": "fork.knife.circle",
+        "score": 321403
       }
     ]
   },
@@ -179,23 +179,23 @@
     "predictions": [
       {
         "symbol": "square.and.arrow.up",
-        "score": 222702
+        "score": 407850
+      },
+      {
+        "symbol": "tshirt",
+        "score": 205528
+      },
+      {
+        "symbol": "square.and.arrow.up.circle",
+        "score": 205222
       },
       {
         "symbol": "shareplay",
-        "score": 219463
+        "score": 199118
       },
       {
         "symbol": "sharedwithyou",
-        "score": 163745
-      },
-      {
-        "symbol": "shareplay.slash",
-        "score": 161322
-      },
-      {
-        "symbol": "person.2.slash.fill",
-        "score": 158664
+        "score": 196756
       }
     ]
   },
@@ -203,24 +203,24 @@
     "text": "warning",
     "predictions": [
       {
+        "symbol": "exclamationmark.triangle",
+        "score": 388578
+      },
+      {
+        "symbol": "figure.run",
+        "score": 272187
+      },
+      {
+        "symbol": "tornado",
+        "score": 260546
+      },
+      {
         "symbol": "warninglight",
-        "score": 307643
+        "score": 252721
       },
       {
-        "symbol": "tuningfork",
-        "score": 276270
-      },
-      {
-        "symbol": "figure.wrestling",
-        "score": 254855
-      },
-      {
-        "symbol": "sterlingsign.ring",
-        "score": 248322
-      },
-      {
-        "symbol": "inset.filled.trailinghalf.arrow.trailing.rectangle",
-        "score": 235871
+        "symbol": "screwdriver",
+        "score": 251982
       }
     ]
   },
@@ -228,24 +228,24 @@
     "text": "search",
     "predictions": [
       {
-        "symbol": "magnifyingglass.circle",
-        "score": 247808
-      },
-      {
         "symbol": "magnifyingglass",
-        "score": 225085
+        "score": 370280
       },
       {
-        "symbol": "app.grid.2x2",
-        "score": 192540
+        "symbol": "magnifyingglass.circle",
+        "score": 250251
       },
       {
-        "symbol": "tshirt",
-        "score": 184201
+        "symbol": "poweroutlet.type.i",
+        "score": 193679
       },
       {
-        "symbol": "character.magnify.zh",
-        "score": 175702
+        "symbol": "fish",
+        "score": 183562
+      },
+      {
+        "symbol": "magnifyingglass.circle.fill",
+        "score": 169413
       }
     ]
   },
@@ -253,24 +253,24 @@
     "text": "an SF Symbol for multicolor 0 circle",
     "predictions": [
       {
-        "symbol": "teletype.answer.circle",
-        "score": 626525
-      },
-      {
-        "symbol": "bird.circle",
-        "score": 615594
-      },
-      {
-        "symbol": "lessthan.circle",
-        "score": 598458
+        "symbol": "0.circle",
+        "score": 636692
       },
       {
         "symbol": "trash.circle",
-        "score": 583355
+        "score": 613850
       },
       {
-        "symbol": "0.circle",
-        "score": 556473
+        "symbol": "pin.circle",
+        "score": 594046
+      },
+      {
+        "symbol": "lessthan.circle",
+        "score": 592472
+      },
+      {
+        "symbol": "oar.2.crossed.circle",
+        "score": 542300
       }
     ]
   },
@@ -278,24 +278,24 @@
     "text": "use multicolor 06 circle, not interface window dashed",
     "predictions": [
       {
-        "symbol": "interface.window.dashed",
-        "score": 924485
+        "symbol": "eraser.line.dashed",
+        "score": 932856
       },
       {
-        "symbol": "4.calendar",
-        "score": 893981
+        "symbol": "wifi.circle",
+        "score": 792114
+      },
+      {
+        "symbol": "trash.circle",
+        "score": 767989
       },
       {
         "symbol": "moon.circle",
-        "score": 845500
-      },
-      {
-        "symbol": "circle.dotted",
-        "score": 782540
+        "score": 764669
       },
       {
         "symbol": "wind.circle",
-        "score": 781655
+        "score": 728025
       }
     ]
   },
@@ -304,23 +304,23 @@
     "predictions": [
       {
         "symbol": "10.circle.fill.ar",
-        "score": 900310
+        "score": 798079
       },
       {
-        "symbol": "21.circle.fill.ar",
-        "score": 735493
+        "symbol": "1.calendar.ar",
+        "score": 637910
+      },
+      {
+        "symbol": "17.circle.fill.ar",
+        "score": 637666
       },
       {
         "symbol": "questionmark.circle.fill.ar",
-        "score": 714769
+        "score": 630664
       },
       {
-        "symbol": "50.circle.fill.ar",
-        "score": 712262
-      },
-      {
-        "symbol": "00.circle.fill.ar",
-        "score": 691352
+        "symbol": "24.circle.fill.ar",
+        "score": 618448
       }
     ]
   },
@@ -329,23 +329,23 @@
     "predictions": [
       {
         "symbol": "15.arrow.trianglehead.counterclockwise",
-        "score": 1027719
-      },
-      {
-        "symbol": "arrow.trianglehead.counterclockwise",
-        "score": 946721
+        "score": 870390
       },
       {
         "symbol": "15.arrow.trianglehead.counterclockwise.ar",
-        "score": 911026
+        "score": 747673
+      },
+      {
+        "symbol": "arrow.trianglehead.counterclockwise",
+        "score": 721574
       },
       {
         "symbol": "15.arrow.trianglehead.counterclockwise.hi",
-        "score": 796749
+        "score": 687890
       },
       {
-        "symbol": "poweroutlet.type.l",
-        "score": 744032
+        "symbol": "arrow.trianglehead.2.counterclockwise",
+        "score": 663069
       }
     ]
   },
@@ -353,24 +353,24 @@
     "text": "use date 2 calendar hi, not rectangle badge sparkles",
     "predictions": [
       {
-        "symbol": "2.calendar.hi",
-        "score": 1149660
-      },
-      {
-        "symbol": "22.calendar.hi",
-        "score": 1091555
-      },
-      {
-        "symbol": "calendar.badge",
-        "score": 1065901
-      },
-      {
         "symbol": "26.calendar.hi",
-        "score": 988713
+        "score": 1046551
       },
       {
-        "symbol": "22.circle.hi",
-        "score": 944219
+        "symbol": "calendar.badge.clock",
+        "score": 1033065
+      },
+      {
+        "symbol": "2.calendar.hi",
+        "score": 1013250
+      },
+      {
+        "symbol": "rectangle.badge.sparkles",
+        "score": 947924
+      },
+      {
+        "symbol": "1.calendar.hi",
+        "score": 941572
       }
     ]
   },
@@ -379,23 +379,23 @@
     "predictions": [
       {
         "symbol": "24.circle.fill",
-        "score": 822187
+        "score": 874608
       },
       {
-        "symbol": "textformat.ml",
-        "score": 606703
-      },
-      {
-        "symbol": "info.circle.fill",
-        "score": 600374
+        "symbol": "42.circle.fill",
+        "score": 696971
       },
       {
         "symbol": "24.circle.fill.ar",
-        "score": 596101
+        "score": 638606
       },
       {
-        "symbol": "4l.circle.fill",
-        "score": 581684
+        "symbol": "4.circle.fill.ar",
+        "score": 623588
+      },
+      {
+        "symbol": "centsign.circle.fill",
+        "score": 623018
       }
     ]
   },
@@ -404,23 +404,23 @@
     "predictions": [
       {
         "symbol": "29.square.fill.ar",
-        "score": 898853
+        "score": 861452
       },
       {
         "symbol": "29.square.fill",
-        "score": 705991
+        "score": 683925
       },
       {
-        "symbol": "24.square.fill.ar",
-        "score": 673062
+        "symbol": "29.circle.fill.ar",
+        "score": 682838
       },
       {
-        "symbol": "9.square.fill.ar",
-        "score": 663775
+        "symbol": "49.square.fill.ar",
+        "score": 681413
       },
       {
-        "symbol": "29.square.ar",
-        "score": 656644
+        "symbol": "29.calendar.ar",
+        "score": 674793
       }
     ]
   },
@@ -428,24 +428,24 @@
     "text": "use indices 33 square fill, not person crop rectangle badge plus",
     "predictions": [
       {
-        "symbol": "person.crop.rectangle.badge.plus",
-        "score": 1002759
-      },
-      {
-        "symbol": "plus.magnifyingglass",
-        "score": 896501
-      },
-      {
-        "symbol": "goforward.plus",
-        "score": 894335
+        "symbol": "person.crop.rectangle.badge.plus.fill",
+        "score": 914562
       },
       {
         "symbol": "inset.filled.center.rectangle.badge.plus",
-        "score": 893194
+        "score": 906860
       },
       {
-        "symbol": "plus.square.fill.on.square.fill",
-        "score": 889870
+        "symbol": "person.crop.square.fill.and.at.rectangle",
+        "score": 875578
+      },
+      {
+        "symbol": "square.on.square.badge.person.crop.fill",
+        "score": 861633
+      },
+      {
+        "symbol": "lirasign.square.fill",
+        "score": 857139
       }
     ]
   },
@@ -454,23 +454,23 @@
     "predictions": [
       {
         "symbol": "4.circle.ar",
-        "score": 706549
-      },
-      {
-        "symbol": "0.circle.ar",
-        "score": 704467
+        "score": 607750
       },
       {
         "symbol": "33.circle.ar",
-        "score": 692239
+        "score": 574270
       },
       {
-        "symbol": "03.circle.ar",
-        "score": 680196
+        "symbol": "35.circle.ar",
+        "score": 572862
       },
       {
-        "symbol": "figure.table.tennis.circle",
-        "score": 670038
+        "symbol": "6.circle.ar",
+        "score": 563370
+      },
+      {
+        "symbol": "0.circle.ar",
+        "score": 549929
       }
     ]
   },
@@ -479,23 +479,23 @@
     "predictions": [
       {
         "symbol": "45.circle.fill.ar",
-        "score": 889701
+        "score": 896042
       },
       {
-        "symbol": "45.circle.ar",
-        "score": 780178
+        "symbol": "43.circle.fill.ar",
+        "score": 720494
       },
       {
-        "symbol": "5.circle.fill.ar",
-        "score": 773071
+        "symbol": "44.circle.fill.ar",
+        "score": 720292
       },
       {
-        "symbol": "15.circle.fill.ar",
-        "score": 756481
+        "symbol": "4.circle.fill.ar",
+        "score": 717801
       },
       {
-        "symbol": "25.circle.fill.ar",
-        "score": 745017
+        "symbol": "48.circle.fill.ar",
+        "score": 713091
       }
     ]
   },
@@ -503,24 +503,24 @@
     "text": "use indices 5 circle hi, not gauge open with lines needle 33percent and arrowtriangle",
     "predictions": [
       {
+        "symbol": "checkmark.circle",
+        "score": 1202117
+      },
+      {
+        "symbol": "car.rear.road.lane.distance.5.and.gauge.open.with.lines.needle.67percent.and.arrowtriangle",
+        "score": 1153313
+      },
+      {
         "symbol": "gauge.open.with.lines.needle.33percent.and.arrowtriangle",
-        "score": 1343912
+        "score": 1133599
       },
       {
         "symbol": "gauge.open.with.lines.needle.33percent.and.arrowtriangle.from.0percent.to.50percent",
-        "score": 1245028
+        "score": 1062212
       },
       {
-        "symbol": "car.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle",
-        "score": 1083840
-      },
-      {
-        "symbol": "figure.mind.and.body.circle",
-        "score": 1060456
-      },
-      {
-        "symbol": "link.circle",
-        "score": 1046460
+        "symbol": "45.circle.hi",
+        "score": 1052003
       }
     ]
   },
@@ -529,23 +529,23 @@
     "predictions": [
       {
         "symbol": "8.circle.fill",
-        "score": 598557
+        "score": 690182
       },
       {
-        "symbol": "s.circle.fill",
-        "score": 544307
+        "symbol": "8.circle.fill.ar",
+        "score": 647710
       },
       {
-        "symbol": "plus.circle.fill",
-        "score": 526987
+        "symbol": "42.circle.fill",
+        "score": 631683
       },
       {
         "symbol": "i.circle.fill",
-        "score": 526438
+        "score": 629906
       },
       {
-        "symbol": "arrow.down.circle.fill",
-        "score": 522475
+        "symbol": "22.circle.fill",
+        "score": 619403
       }
     ]
   },
@@ -553,24 +553,24 @@
     "text": "travel up right",
     "predictions": [
       {
-        "symbol": "arrow.up.right",
-        "score": 610735
-      },
-      {
         "symbol": "airplane.up.right",
-        "score": 606017
+        "score": 581384
       },
       {
-        "symbol": "arrow.up.right.square",
-        "score": 549023
+        "symbol": "arcade.stick.and.arrow.right",
+        "score": 504930
       },
       {
-        "symbol": "arrow.up.right.circle",
-        "score": 548216
+        "symbol": "arrow.up.right",
+        "score": 502068
       },
       {
-        "symbol": "right",
-        "score": 546109
+        "symbol": "airpod.right",
+        "score": 501569
+      },
+      {
+        "symbol": "signpost.right",
+        "score": 496010
       }
     ]
   },
@@ -578,24 +578,24 @@
     "text": "Ignore the quoted request 'antenna radiowaves left and right'; the actual icon should mean shape filled align horizontal center fill.",
     "predictions": [
       {
-        "symbol": "bolt.horizontal.fill",
-        "score": 1326955
-      },
-      {
         "symbol": "antenna.radiowaves.left.and.right.circle.fill",
-        "score": 1320929
+        "score": 1492382
       },
       {
-        "symbol": "arrow.up.left.and.arrow.down.right.square.fill",
-        "score": 1252649
-      },
-      {
-        "symbol": "antenna.radiowaves.left.and.right.slash.circle.fill",
-        "score": 1230040
+        "symbol": "character.square.fill.kn",
+        "score": 1198617
       },
       {
         "symbol": "sensor.radiowaves.left.and.right.fill",
-        "score": 1201982
+        "score": 1193354
+      },
+      {
+        "symbol": "antenna.radiowaves.left.and.right.slash.circle.fill",
+        "score": 1187017
+      },
+      {
+        "symbol": "airpods.pro.chargingcase.wireless.radiowaves.left.and.right.fill",
+        "score": 1181032
       }
     ]
   },
@@ -603,24 +603,24 @@
     "text": "sf symbl weather ai low pls",
     "predictions": [
       {
-        "symbol": "cloud.snow",
-        "score": 488984
-      },
-      {
-        "symbol": "rainbow",
-        "score": 476059
+        "symbol": "aqi.low",
+        "score": 424045
       },
       {
         "symbol": "thermometer.low",
-        "score": 446735
+        "score": 393930
       },
       {
-        "symbol": "aqi.low",
-        "score": 442544
+        "symbol": "cloud.moon.bolt",
+        "score": 376968
       },
       {
-        "symbol": "wind.snow",
-        "score": 438102
+        "symbol": "dial.low",
+        "score": 373397
+      },
+      {
+        "symbol": "smoke",
+        "score": 356074
       }
     ]
   },
@@ -629,23 +629,23 @@
     "predictions": [
       {
         "symbol": "arrow.up.backward.and.arrow.down.forward.square",
-        "score": 986110
+        "score": 974716
       },
       {
         "symbol": "arrow.down.forward.and.arrow.up.backward.square",
-        "score": 823118
+        "score": 832971
+      },
+      {
+        "symbol": "arrow.up.forward.and.arrow.down.backward.square",
+        "score": 762239
+      },
+      {
+        "symbol": "arrow.up.arrow.down.square",
+        "score": 740793
       },
       {
         "symbol": "arrow.up.backward.and.arrow.down.forward.square.fill",
-        "score": 737682
-      },
-      {
-        "symbol": "arrow.down.backward.and.arrow.up.forward.square",
-        "score": 712254
-      },
-      {
-        "symbol": "arrow.down.forward.and.arrow.up.backward.square.fill",
-        "score": 696551
+        "score": 736880
       }
     ]
   },
@@ -653,24 +653,24 @@
     "text": "Ignore the quoted request 'circle square fill'; the actual icon should mean multicolor arrow left.",
     "predictions": [
       {
-        "symbol": "arrow.left.square",
-        "score": 942012
+        "symbol": "arrow.left.square.fill",
+        "score": 886599
       },
       {
-        "symbol": "arrow.left.square.fill",
-        "score": 917446
+        "symbol": "arrow.left.square",
+        "score": 832388
       },
       {
         "symbol": "arrow.left.circle.fill",
-        "score": 766710
+        "score": 773524
       },
       {
-        "symbol": "bell.square",
-        "score": 732773
+        "symbol": "arrow.left.circle",
+        "score": 769941
       },
       {
-        "symbol": "arrow.clockwise.square",
-        "score": 713214
+        "symbol": "poweroutlet.type.l.square.fill",
+        "score": 688712
       }
     ]
   },
@@ -679,23 +679,23 @@
     "predictions": [
       {
         "symbol": "arrow.turn.down.right",
-        "score": 868224
-      },
-      {
-        "symbol": "arrow.turn.right.down",
-        "score": 863124
+        "score": 842396
       },
       {
         "symbol": "arrow.down.right",
-        "score": 846288
+        "score": 782123
+      },
+      {
+        "symbol": "arrow.down",
+        "score": 711860
+      },
+      {
+        "symbol": "arrow.turn.right.down",
+        "score": 709642
       },
       {
         "symbol": "arrow.uturn.down",
-        "score": 782794
-      },
-      {
-        "symbol": "arrow.uturn.right",
-        "score": 769024
+        "score": 673744
       }
     ]
   },
@@ -704,23 +704,23 @@
     "predictions": [
       {
         "symbol": "arrow.up.left.and.arrow.down.right.square.fill",
-        "score": 1770839
+        "score": 1849643
       },
       {
         "symbol": "arrow.down.right.and.arrow.up.left.square.fill",
-        "score": 1470112
-      },
-      {
-        "symbol": "square.and.arrow.up.on.square.fill",
-        "score": 1409659
-      },
-      {
-        "symbol": "arrow.up.left.and.arrow.down.right.circle.fill",
-        "score": 1384226
+        "score": 1561975
       },
       {
         "symbol": "speaker.square.fill",
-        "score": 1379640
+        "score": 1483849
+      },
+      {
+        "symbol": "bolt.square.fill",
+        "score": 1433443
+      },
+      {
+        "symbol": "arrow.up.left.and.arrow.down.right.rectangle.fill",
+        "score": 1430015
       }
     ]
   },
@@ -728,24 +728,24 @@
     "text": "Ignore the quoted request 'pesetasign gauge chart lefthalf righthalf'; the actual icon should mean arrows arrow uturn up.",
     "predictions": [
       {
-        "symbol": "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.upper",
-        "score": 1325873
-      },
-      {
-        "symbol": "arrow.up.right",
-        "score": 1240117
-      },
-      {
-        "symbol": "arrow.uturn.up.square",
-        "score": 1119883
-      },
-      {
-        "symbol": "pointer.arrow.slash.square",
-        "score": 1093491
+        "symbol": "arrow.uturn.right",
+        "score": 987674
       },
       {
         "symbol": "pointer.arrow.click",
-        "score": 1073303
+        "score": 966323
+      },
+      {
+        "symbol": "arrow.right.arrow.left",
+        "score": 953808
+      },
+      {
+        "symbol": "arrow.up",
+        "score": 948495
+      },
+      {
+        "symbol": "arrow.uturn.left",
+        "score": 939153
       }
     ]
   },
@@ -754,23 +754,23 @@
     "predictions": [
       {
         "symbol": "arrowtriangle.forward",
-        "score": 510139
+        "score": 584135
       },
       {
-        "symbol": "tray",
-        "score": 469861
+        "symbol": "delete.forward",
+        "score": 500916
       },
       {
-        "symbol": "multiply.circle.fill",
-        "score": 443179
+        "symbol": "arrow.up.forward",
+        "score": 498974
       },
       {
-        "symbol": "arrow.forward",
-        "score": 439198
+        "symbol": "arrowtriangle.forward.square",
+        "score": 494745
       },
       {
-        "symbol": "arrowshape.forward",
-        "score": 434880
+        "symbol": "arrow.uturn.forward",
+        "score": 482628
       }
     ]
   },
@@ -779,23 +779,23 @@
     "predictions": [
       {
         "symbol": "b.circle.fill",
-        "score": 682018
+        "score": 668417
+      },
+      {
+        "symbol": "millsign.circle.fill",
+        "score": 605328
       },
       {
         "symbol": "bahtsign.circle.fill",
-        "score": 533321
+        "score": 601502
       },
       {
-        "symbol": "lightbulb.circle.fill",
-        "score": 524495
+        "symbol": "cedisign.circle.fill",
+        "score": 582207
       },
       {
-        "symbol": "figure.pilates.circle.fill",
-        "score": 522012
-      },
-      {
-        "symbol": "bitcoinsign.circle.fill",
-        "score": 508554
+        "symbol": "chineseyuanrenminbisign.circle.fill",
+        "score": 553183
       }
     ]
   },
@@ -804,23 +804,23 @@
     "predictions": [
       {
         "symbol": "message.badge.circle",
-        "score": 636448
+        "score": 579976
+      },
+      {
+        "symbol": "gearshape.circle",
+        "score": 524702
+      },
+      {
+        "symbol": "circle",
+        "score": 514166
       },
       {
         "symbol": "character.circle",
-        "score": 530306
+        "score": 502461
       },
       {
-        "symbol": "teletype.circle",
-        "score": 513675
-      },
-      {
-        "symbol": "circle.badge.checkmark",
-        "score": 497376
-      },
-      {
-        "symbol": "e.circle",
-        "score": 497295
+        "symbol": "ellipsis.circle.badge",
+        "score": 477884
       }
     ]
   },
@@ -829,23 +829,23 @@
     "predictions": [
       {
         "symbol": "bell.badge.circle",
-        "score": 1473580
+        "score": 1471348
       },
       {
         "symbol": "bell.badge",
-        "score": 1418045
-      },
-      {
-        "symbol": "ellipsis.circle.badge",
-        "score": 1284852
-      },
-      {
-        "symbol": "bell.square",
-        "score": 1185435
+        "score": 1307865
       },
       {
         "symbol": "bell.circle",
-        "score": 1182289
+        "score": 1209822
+      },
+      {
+        "symbol": "gear.badge",
+        "score": 1127930
+      },
+      {
+        "symbol": "ellipsis.circle.badge",
+        "score": 1109654
       }
     ]
   },
@@ -854,23 +854,23 @@
     "predictions": [
       {
         "symbol": "bolt.circle.fill",
-        "score": 1142122
+        "score": 1105204
       },
       {
         "symbol": "bolt.horizontal.circle.fill",
-        "score": 984932
+        "score": 1015782
       },
       {
-        "symbol": "antenna.radiowaves.left.and.right.circle.fill",
-        "score": 951381
-      },
-      {
-        "symbol": "heart.circle.fill",
-        "score": 912972
+        "symbol": "folder.circle.fill",
+        "score": 931277
       },
       {
         "symbol": "bell.circle.fill",
-        "score": 874659
+        "score": 918255
+      },
+      {
+        "symbol": "minus.circle.fill",
+        "score": 894765
       }
     ]
   },
@@ -879,23 +879,23 @@
     "predictions": [
       {
         "symbol": "briefcase.sensor.tag.radiowaves.left.and.right.fill",
-        "score": 1412820
+        "score": 1317092
       },
       {
-        "symbol": "briefcase.sensor.tag.radiowaves.left.and.right",
-        "score": 1147445
+        "symbol": "bicycle.sensor.tag.radiowaves.left.and.right.fill",
+        "score": 911723
       },
       {
         "symbol": "backpack.sensor.tag.radiowaves.left.and.right.fill",
-        "score": 1024053
+        "score": 895297
       },
       {
-        "symbol": "sensor.radiowaves.left.and.right.fill",
-        "score": 970142
+        "symbol": "umbrella.sensor.tag.radiowaves.left.and.right.fill",
+        "score": 879730
       },
       {
-        "symbol": "jacket.sensor.tag.radiowaves.left.and.right.fill",
-        "score": 968474
+        "symbol": "briefcase.sensor.tag.radiowaves.left.and.right",
+        "score": 877044
       }
     ]
   },
@@ -903,24 +903,24 @@
     "text": "Ignore the quoted request 'arrowshape forward fill'; the actual icon should mean multicolor calendar badge checkmark.",
     "predictions": [
       {
-        "symbol": "cart",
-        "score": 1168767
-      },
-      {
         "symbol": "calendar.badge.checkmark",
-        "score": 981609
+        "score": 862513
       },
       {
-        "symbol": "calendar.badge",
-        "score": 848955
+        "symbol": "cart",
+        "score": 852280
       },
       {
-        "symbol": "calendar.badge.clock",
-        "score": 845031
+        "symbol": "arrow.forward.to.line.square.fill",
+        "score": 781122
       },
       {
-        "symbol": "hifispeaker.badge.checkmark.fill",
-        "score": 842668
+        "symbol": "21.calendar.hi",
+        "score": 758861
+      },
+      {
+        "symbol": "car.badge.gearshape.fill",
+        "score": 734845
       }
     ]
   },
@@ -929,23 +929,23 @@
     "predictions": [
       {
         "symbol": "car.rear.hazardsign",
-        "score": 972345
+        "score": 963761
       },
       {
         "symbol": "car.rear.hazardsign.fill",
-        "score": 782310
-      },
-      {
-        "symbol": "24.calendar.ar",
-        "score": 645452
+        "score": 789327
       },
       {
         "symbol": "hazardsign",
-        "score": 639077
+        "score": 749052
       },
       {
         "symbol": "13.calendar.ar",
-        "score": 635834
+        "score": 727481
+      },
+      {
+        "symbol": "windshield.rear.and.fluid",
+        "score": 589739
       }
     ]
   },
@@ -954,23 +954,23 @@
     "predictions": [
       {
         "symbol": "car.top.radiowaves.front",
-        "score": 902625
+        "score": 814280
+      },
+      {
+        "symbol": "car.top.radiowaves.rear",
+        "score": 636340
+      },
+      {
+        "symbol": "person.wave.2",
+        "score": 601118
       },
       {
         "symbol": "character.circle.te",
-        "score": 761935
+        "score": 594542
       },
       {
-        "symbol": "car.top.frontleft.arrowtriangle",
-        "score": 720696
-      },
-      {
-        "symbol": "car.top.radiowaves.rear.left.car.top.front",
-        "score": 693751
-      },
-      {
-        "symbol": "autostartstop.trianglebadge.exclamationmark",
-        "score": 687777
+        "symbol": "airtag.radiowaves.forward",
+        "score": 585832
       }
     ]
   },
@@ -979,23 +979,23 @@
     "predictions": [
       {
         "symbol": "centsign",
-        "score": 1280171
+        "score": 1319913
+      },
+      {
+        "symbol": "manatsign",
+        "score": 983017
       },
       {
         "symbol": "iphone.gen2.motion",
-        "score": 1076672
+        "score": 975286
       },
       {
-        "symbol": "centsign.circle.fill",
-        "score": 1035865
+        "symbol": "centsign.building.classical",
+        "score": 973051
       },
       {
-        "symbol": "numbersign",
-        "score": 1025445
-      },
-      {
-        "symbol": "dongsign",
-        "score": 1005085
+        "symbol": "indianrupeesign",
+        "score": 937858
       }
     ]
   },
@@ -1004,23 +1004,23 @@
     "predictions": [
       {
         "symbol": "character.bubble.fill.mr",
-        "score": 877594
+        "score": 881941
       },
       {
-        "symbol": "character.book.closed.fill.mr",
-        "score": 683293
+        "symbol": "character.bubble.fill.te",
+        "score": 677812
+      },
+      {
+        "symbol": "character.bubble.fill",
+        "score": 661357
       },
       {
         "symbol": "character.bubble.mr",
-        "score": 676154
+        "score": 652757
       },
       {
-        "symbol": "character.circle.fill.mr",
-        "score": 675966
-      },
-      {
-        "symbol": "text.bubble.fill",
-        "score": 631289
+        "symbol": "person.bubble.fill",
+        "score": 650180
       }
     ]
   },
@@ -1029,23 +1029,23 @@
     "predictions": [
       {
         "symbol": "chart.bar.horizontal.page.fill",
-        "score": 1106372
-      },
-      {
-        "symbol": "chart.bar.doc.horizontal.fill",
-        "score": 790205
+        "score": 1102956
       },
       {
         "symbol": "line.horizontal.3.circle.fill",
-        "score": 764786
+        "score": 845811
       },
       {
-        "symbol": "chart.bar.fill",
-        "score": 755765
+        "symbol": "chart.bar.doc.horizontal.fill",
+        "score": 834138
       },
       {
-        "symbol": "button.horizontal.fill",
-        "score": 747751
+        "symbol": "line.horizontal.star.fill.line.horizontal",
+        "score": 806083
+      },
+      {
+        "symbol": "chart.bar.horizontal.page",
+        "score": 776461
       }
     ]
   },
@@ -1053,24 +1053,24 @@
     "text": "Ignore the quoted request 'm4 button horizontal fill'; the actual icon should mean arrows chevron right circle.",
     "predictions": [
       {
-        "symbol": "chevron.right.circle.fill",
-        "score": 885527
-      },
-      {
-        "symbol": "chevron.right.circle",
-        "score": 869938
-      },
-      {
         "symbol": "m4.button.horizontal",
-        "score": 832323
-      },
-      {
-        "symbol": "chevron.left.chevron.right",
-        "score": 796899
+        "score": 943985
       },
       {
         "symbol": "arrow.left.arrow.right.circle",
-        "score": 753362
+        "score": 836721
+      },
+      {
+        "symbol": "chevron.right.circle",
+        "score": 836548
+      },
+      {
+        "symbol": "arrow.uturn.right.circle",
+        "score": 788984
+      },
+      {
+        "symbol": "chevron.right.circle.fill",
+        "score": 787314
       }
     ]
   },
@@ -1078,24 +1078,24 @@
     "text": "sf symbl higlights pls",
     "predictions": [
       {
+        "symbol": "airplane",
+        "score": 399289
+      },
+      {
+        "symbol": "lightbulb",
+        "score": 352591
+      },
+      {
         "symbol": "highlighter",
-        "score": 428933
+        "score": 351027
       },
       {
-        "symbol": "headlight.high.beam",
-        "score": 387543
+        "symbol": "parkinglight",
+        "score": 316280
       },
       {
-        "symbol": "light.recessed",
-        "score": 362477
-      },
-      {
-        "symbol": "sportscourt",
-        "score": 348228
-      },
-      {
-        "symbol": "warninglight",
-        "score": 345697
+        "symbol": "airplane.ticket",
+        "score": 314198
       }
     ]
   },
@@ -1103,24 +1103,24 @@
     "text": "nature cloud rain circle",
     "predictions": [
       {
-        "symbol": "cloud.rain.circle",
-        "score": 1109339
-      },
-      {
         "symbol": "cloud.sun.rain.circle",
-        "score": 1016640
+        "score": 1007085
       },
       {
-        "symbol": "cloud.circle",
-        "score": 983366
+        "symbol": "cloud.rain.circle",
+        "score": 997180
+      },
+      {
+        "symbol": "cloud.bolt.rain.circle",
+        "score": 932670
       },
       {
         "symbol": "cloud.rain.circle.fill",
-        "score": 957501
+        "score": 897760
       },
       {
-        "symbol": "cloud.drizzle.circle",
-        "score": 898322
+        "symbol": "cloud.moon.rain.circle",
+        "score": 869896
       }
     ]
   },
@@ -1128,24 +1128,24 @@
     "text": "Ignore the quoted request 'globe central south asia'; the actual icon should mean sports circle filled cricket ball circle fill.",
     "predictions": [
       {
-        "symbol": "cricket.ball.circle.fill",
-        "score": 1322695
+        "symbol": "cube.circle.fill",
+        "score": 1235658
       },
       {
         "symbol": "soccerball.circle.fill",
-        "score": 1220072
+        "score": 1234876
+      },
+      {
+        "symbol": "cricket.ball.circle.fill",
+        "score": 1168597
+      },
+      {
+        "symbol": "sportscourt.circle.fill",
+        "score": 1110461
       },
       {
         "symbol": "microbe.circle.fill",
-        "score": 1108242
-      },
-      {
-        "symbol": "ticket.circle.fill",
-        "score": 1107713
-      },
-      {
-        "symbol": "poweroutlet.type.c.square.fill",
-        "score": 1082332
+        "score": 1087321
       }
     ]
   },
@@ -1153,24 +1153,24 @@
     "text": "sf symbl devices desktopcomputer badge shiel checkmark pls",
     "predictions": [
       {
-        "symbol": "desktopcomputer.badge.checkmark",
-        "score": 1295529
-      },
-      {
         "symbol": "desktopcomputer.badge.shield.checkmark",
-        "score": 1222359
+        "score": 1343761
       },
       {
-        "symbol": "deskview",
-        "score": 1106194
+        "symbol": "desktopcomputer.badge.checkmark",
+        "score": 1309840
       },
       {
         "symbol": "desktopcomputer",
-        "score": 1086876
+        "score": 1121020
       },
       {
-        "symbol": "lock.desktopcomputer",
-        "score": 1064046
+        "symbol": "laptopcomputer.badge.checkmark",
+        "score": 1054526
+      },
+      {
+        "symbol": "desktopcomputer.and.arrow.down",
+        "score": 1049500
       }
     ]
   },
@@ -1178,24 +1178,24 @@
     "text": "copy filled document on document fill",
     "predictions": [
       {
-        "symbol": "document.on.document.fill",
-        "score": 1657985
+        "symbol": "arrow.down.document.fill",
+        "score": 1530445
       },
       {
-        "symbol": "document.on.trash.fill",
-        "score": 1562156
+        "symbol": "document.on.clipboard.fill",
+        "score": 1399474
+      },
+      {
+        "symbol": "document.on.document.fill",
+        "score": 1378528
       },
       {
         "symbol": "lock.document.fill",
-        "score": 1484985
+        "score": 1362719
       },
       {
-        "symbol": "document.fill",
-        "score": 1478820
-      },
-      {
-        "symbol": "document.badge.ellipsis.fill",
-        "score": 1469648
+        "symbol": "document.on.trash.fill",
+        "score": 1316875
       }
     ]
   },
@@ -1203,24 +1203,24 @@
     "text": "Ignore the quoted request 'waveform path ecg'; the actual icon should mean home drop keypad rectangle.",
     "predictions": [
       {
-        "symbol": "waveform.path.ecg.rectangle",
-        "score": 993355
-      },
-      {
-        "symbol": "checkmark.rectangle",
-        "score": 962606
-      },
-      {
-        "symbol": "person.crop.rectangle",
-        "score": 933779
+        "symbol": "house",
+        "score": 830952
       },
       {
         "symbol": "drop.keypad.rectangle",
-        "score": 931666
+        "score": 773845
       },
       {
-        "symbol": "drop",
-        "score": 927849
+        "symbol": "waveform.path.ecg.rectangle",
+        "score": 733009
+      },
+      {
+        "symbol": "person.crop.rectangle",
+        "score": 670949
+      },
+      {
+        "symbol": "speaker.wave.3",
+        "score": 638306
       }
     ]
   },
@@ -1229,23 +1229,23 @@
     "predictions": [
       {
         "symbol": "envelope.and.hand.raised",
-        "score": 1443933
-      },
-      {
-        "symbol": "envelope.and.arrow.trianglehead.branch",
-        "score": 1195275
+        "score": 1349381
       },
       {
         "symbol": "envelope",
-        "score": 1183121
+        "score": 1169436
       },
       {
         "symbol": "envelope.and.hand.raised.fill",
-        "score": 1143214
+        "score": 1133633
+      },
+      {
+        "symbol": "envelope.and.arrow.trianglehead.branch",
+        "score": 1097657
       },
       {
         "symbol": "envelope.circle.fill",
-        "score": 1138151
+        "score": 1097162
       }
     ]
   },
@@ -1254,23 +1254,23 @@
     "predictions": [
       {
         "symbol": "ev.charger.arrowtriangle.right",
-        "score": 1193722
-      },
-      {
-        "symbol": "externaldrive.trianglebadge.exclamationmark",
-        "score": 970548
+        "score": 1088265
       },
       {
         "symbol": "ev.charger.arrowtriangle.right.fill",
-        "score": 945899
+        "score": 855586
       },
       {
-        "symbol": "car.top.arrowtriangle.rear.right",
-        "score": 896304
+        "symbol": "earbuds.stemless.right",
+        "score": 823235
       },
       {
-        "symbol": "5.calendar.hi",
-        "score": 866301
+        "symbol": "arrowtriangle.right.and.line.vertical.and.arrowtriangle.left",
+        "score": 791043
+      },
+      {
+        "symbol": "arrowtriangle.right.rightside.rectangle",
+        "score": 765672
       }
     ]
   },
@@ -1278,24 +1278,24 @@
     "text": "Ignore the quoted request 'suv side arrowtriangle up fill'; the actual icon should mean multicolor externaldrive fill badge minus.",
     "predictions": [
       {
+        "symbol": "externaldrive.fill.trianglebadge.exclamationmark",
+        "score": 1220226
+      },
+      {
+        "symbol": "textformat.size.larger.mr",
+        "score": 1169426
+      },
+      {
         "symbol": "externaldrive.fill.badge.minus",
-        "score": 1143990
+        "score": 1133366
       },
       {
-        "symbol": "water.waves.and.arrow.trianglehead.up",
-        "score": 1075229
+        "symbol": "folder.fill.badge.minus",
+        "score": 1117531
       },
       {
-        "symbol": "hand.thumbsup.fill",
-        "score": 1049127
-      },
-      {
-        "symbol": "suv.side.arrowtriangle.up.fill",
-        "score": 1031877
-      },
-      {
-        "symbol": "rectangle.stack.fill.badge.minus",
-        "score": 1020378
+        "symbol": "externaldrive.badge.minus",
+        "score": 1108696
       }
     ]
   },
@@ -1303,24 +1303,24 @@
     "text": "sf symbl child figure 2 ascnding pls",
     "predictions": [
       {
-        "symbol": "figure.2.ascending",
-        "score": 983632
+        "symbol": "figure.2.and.child.holdinghands",
+        "score": 925826
       },
       {
-        "symbol": "figure.2.and.child.holdinghands",
-        "score": 934910
+        "symbol": "figure.2.ascending",
+        "score": 898918
       },
       {
         "symbol": "figure.2",
-        "score": 859690
+        "score": 758069
+      },
+      {
+        "symbol": "figure.2.descending",
+        "score": 679101
       },
       {
         "symbol": "figure.2.left.holdinghands",
-        "score": 826769
-      },
-      {
-        "symbol": "figure.seated.side.airbag.on.2",
-        "score": 763107
+        "score": 673185
       }
     ]
   },
@@ -1329,23 +1329,23 @@
     "predictions": [
       {
         "symbol": "figure.equestrian.sports.circle.fill",
-        "score": 1623081
-      },
-      {
-        "symbol": "figure.disc.sports.circle.fill",
-        "score": 1290952
-      },
-      {
-        "symbol": "figure.martial.arts.circle.fill",
-        "score": 1249101
-      },
-      {
-        "symbol": "figure.strengthtraining.functional.circle.fill",
-        "score": 1197979
+        "score": 1606915
       },
       {
         "symbol": "sportscourt.circle.fill",
-        "score": 1183121
+        "score": 1263889
+      },
+      {
+        "symbol": "figure.strengthtraining.functional.circle.fill",
+        "score": 1233403
+      },
+      {
+        "symbol": "figure.disc.sports.circle.fill",
+        "score": 1210668
+      },
+      {
+        "symbol": "figure.walk.circle.fill",
+        "score": 1193131
       }
     ]
   },
@@ -1353,24 +1353,24 @@
     "text": "Ignore the quoted request 'dongsign building classical fill'; the actual icon should mean human figure mixed cardio.",
     "predictions": [
       {
-        "symbol": "figure.hand.cycling",
-        "score": 922668
+        "symbol": "manatsign.building.classical.fill",
+        "score": 1029118
       },
       {
-        "symbol": "figure.elliptical",
-        "score": 864584
+        "symbol": "figure.seated.seatbelt.left.drive.seats.3.fill",
+        "score": 1027989
       },
       {
-        "symbol": "figure.climbing",
-        "score": 847890
+        "symbol": "dongsign.building.classical.fill",
+        "score": 923817
       },
       {
-        "symbol": "figure.snowboarding",
-        "score": 840458
+        "symbol": "arrow.up.and.down.and.arrow.left.and.right",
+        "score": 895713
       },
       {
-        "symbol": "figure.cooldown",
-        "score": 809938
+        "symbol": "figure.mixed.cardio.circle.fill",
+        "score": 888137
       }
     ]
   },
@@ -1379,23 +1379,23 @@
     "predictions": [
       {
         "symbol": "figure.seated.seatbelt.left.drive.seats.2.3.2.fill",
-        "score": 1247372
-      },
-      {
-        "symbol": "figure.seated.seatbelt.left.drive.seats.2.3.3.fill",
-        "score": 984142
-      },
-      {
-        "symbol": "figure.seated.seatbelt.left.drive.seats.2.fill",
-        "score": 967486
-      },
-      {
-        "symbol": "figure.seated.seatbelt.left.drive.seats.2.3.2",
-        "score": 912857
+        "score": 1132736
       },
       {
         "symbol": "figure.seated.seatbelt.left.drive.seats.2.3.fill",
-        "score": 908152
+        "score": 962984
+      },
+      {
+        "symbol": "figure.seated.seatbelt.left.drive.seats.2.3.3.fill",
+        "score": 926170
+      },
+      {
+        "symbol": "figure.seated.seatbelt.left.drive.seats.2.2.3.fill",
+        "score": 912469
+      },
+      {
+        "symbol": "figure.seated.seatbelt.left.drive.seats.2.fill",
+        "score": 912372
       }
     ]
   },
@@ -1404,23 +1404,23 @@
     "predictions": [
       {
         "symbol": "figure.skiing.crosscountry",
-        "score": 1229819
-      },
-      {
-        "symbol": "figure.skiing.crosscountry.circle",
-        "score": 1083455
+        "score": 1191222
       },
       {
         "symbol": "figure.skiing.crosscountry.circle.fill",
-        "score": 1063872
+        "score": 1018808
       },
       {
-        "symbol": "figure.rolling",
-        "score": 983908
+        "symbol": "figure.skiing.crosscountry.circle",
+        "score": 1015849
       },
       {
         "symbol": "figure.cross.training",
-        "score": 959290
+        "score": 932509
+      },
+      {
+        "symbol": "figure.skiing.downhill",
+        "score": 927978
       }
     ]
   },
@@ -1429,23 +1429,23 @@
     "predictions": [
       {
         "symbol": "figure.walk.suitcase.rolling.circle.fill",
-        "score": 1815166
-      },
-      {
-        "symbol": "suitcase.rolling.and.film.circle.fill",
-        "score": 1558028
-      },
-      {
-        "symbol": "figure.walk.circle.fill",
-        "score": 1509951
+        "score": 1972062
       },
       {
         "symbol": "figure.rolling.circle.fill",
-        "score": 1416187
+        "score": 1723224
       },
       {
-        "symbol": "figure.hand.cycling.circle.fill",
-        "score": 1402462
+        "symbol": "cloud.fog.circle.fill",
+        "score": 1697473
+      },
+      {
+        "symbol": "figure.walk.circle.fill",
+        "score": 1589051
+      },
+      {
+        "symbol": "figure.hiking.circle.fill",
+        "score": 1554255
       }
     ]
   },
@@ -1454,23 +1454,23 @@
     "predictions": [
       {
         "symbol": "flask.fill",
-        "score": 749235
+        "score": 728913
       },
       {
         "symbol": "flag.fill",
-        "score": 702137
-      },
-      {
-        "symbol": "flame.fill",
-        "score": 604491
-      },
-      {
-        "symbol": "trash.fill",
-        "score": 564691
+        "score": 626395
       },
       {
         "symbol": "flag.slash.fill",
-        "score": 523019
+        "score": 555866
+      },
+      {
+        "symbol": "flask",
+        "score": 521234
+      },
+      {
+        "symbol": "flag.badge.ellipsis.fill",
+        "score": 499461
       }
     ]
   },
@@ -1479,23 +1479,23 @@
     "predictions": [
       {
         "symbol": "fuelpump.slash.fill",
-        "score": 1081672
+        "score": 1097769
       },
       {
-        "symbol": "fuelpump.exclamationmark.fill",
-        "score": 813884
+        "symbol": "car.top.lane.dashed.departure.left.slash.fill",
+        "score": 849394
       },
       {
-        "symbol": "eraser.slash.fill",
-        "score": 798032
+        "symbol": "fuelpump.arrowtriangle.left.fill",
+        "score": 839817
       },
       {
         "symbol": "fuelpump.slash",
-        "score": 795078
+        "score": 837298
       },
       {
-        "symbol": "character.book.closed.fill.sat",
-        "score": 770817
+        "symbol": "app.slash.fill",
+        "score": 822830
       }
     ]
   },
@@ -1504,23 +1504,23 @@
     "predictions": [
       {
         "symbol": "greaterthan.circle",
-        "score": 944280
+        "score": 915903
       },
       {
-        "symbol": "poweroutlet.type.i.square",
-        "score": 928905
-      },
-      {
-        "symbol": "arrow.clockwise.square",
-        "score": 903445
+        "symbol": "20.calendar",
+        "score": 859419
       },
       {
         "symbol": "i.square",
-        "score": 900971
+        "score": 809737
       },
       {
-        "symbol": "20.calendar.ar",
-        "score": 894034
+        "symbol": "29.square",
+        "score": 800092
+      },
+      {
+        "symbol": "calendar.circle",
+        "score": 787040
       }
     ]
   },
@@ -1529,23 +1529,23 @@
     "predictions": [
       {
         "symbol": "hand.thumbsup.circle",
-        "score": 1190870
+        "score": 1070134
       },
       {
-        "symbol": "hand.thumbsdown.hand.thumbsup",
-        "score": 946801
+        "symbol": "p.circle",
+        "score": 821514
       },
       {
-        "symbol": "hand.thumbsdown.circle",
-        "score": 946670
-      },
-      {
-        "symbol": "hand.thumbsup.circle.fill",
-        "score": 933660
+        "symbol": "thermometer.variable.and.figure.circle",
+        "score": 801817
       },
       {
         "symbol": "arrow.up.to.line.circle",
-        "score": 896315
+        "score": 779448
+      },
+      {
+        "symbol": "hammer.circle",
+        "score": 756272
       }
     ]
   },
@@ -1554,23 +1554,23 @@
     "predictions": [
       {
         "symbol": "hifispeaker.2.badge.exclamationmark.fill",
-        "score": 1444881
-      },
-      {
-        "symbol": "hifispeaker.badge.exclamationmark.fill",
-        "score": 1183769
+        "score": 1421402
       },
       {
         "symbol": "hifispeaker.2.badge.exclamationmark",
-        "score": 1173137
+        "score": 1236297
       },
       {
         "symbol": "hifispeaker.2.badge.checkmark.fill",
-        "score": 1101361
+        "score": 1234751
       },
       {
-        "symbol": "27.square.fill.hi",
-        "score": 992177
+        "symbol": "hifispeaker.badge.exclamationmark.fill",
+        "score": 1202742
+      },
+      {
+        "symbol": "hifispeaker.and.homepod.badge.exclamationmark.fill",
+        "score": 1080533
       }
     ]
   },
@@ -1579,23 +1579,23 @@
     "predictions": [
       {
         "symbol": "homepod.and.homepod.mini.badge.minus.fill",
-        "score": 1394952
-      },
-      {
-        "symbol": "minus.square.fill",
-        "score": 1334364
-      },
-      {
-        "symbol": "m.square",
-        "score": 1308755
-      },
-      {
-        "symbol": "millsign.square",
-        "score": 1294281
+        "score": 1424676
       },
       {
         "symbol": "homepod.mini.badge.minus.fill",
-        "score": 1284251
+        "score": 1329080
+      },
+      {
+        "symbol": "homepod.and.homepod.mini.badge.checkmark.fill",
+        "score": 1301628
+      },
+      {
+        "symbol": "homepod.and.homepod.mini.fill",
+        "score": 1295391
+      },
+      {
+        "symbol": "m.square",
+        "score": 1273525
       }
     ]
   },
@@ -1604,23 +1604,23 @@
     "predictions": [
       {
         "symbol": "play.slash",
-        "score": 734620
+        "score": 658888
       },
       {
-        "symbol": "square.stack.3d.up.slash",
-        "score": 653233
+        "symbol": "play.square.stack",
+        "score": 566032
       },
       {
-        "symbol": "restart",
-        "score": 642844
+        "symbol": "horn.blast",
+        "score": 556891
       },
       {
-        "symbol": "stairs",
-        "score": 580081
+        "symbol": "house.slash",
+        "score": 539115
       },
       {
-        "symbol": "tsa.slash",
-        "score": 557580
+        "symbol": "shareplay.slash",
+        "score": 484854
       }
     ]
   },
@@ -1629,23 +1629,23 @@
     "predictions": [
       {
         "symbol": "info.square",
-        "score": 733417
+        "score": 763318
       },
       {
-        "symbol": "infinity.circle",
-        "score": 614836
+        "symbol": "o.square",
+        "score": 641056
       },
       {
-        "symbol": "figure.child.circle",
-        "score": 602170
+        "symbol": "info.circle",
+        "score": 627379
       },
       {
-        "symbol": "tsa.circle",
-        "score": 591607
+        "symbol": "f.square",
+        "score": 553198
       },
       {
-        "symbol": "autostartstop",
-        "score": 575249
+        "symbol": "info.app",
+        "score": 551352
       }
     ]
   },
@@ -1654,23 +1654,23 @@
     "predictions": [
       {
         "symbol": "iphone.gen1.landscape.slash",
-        "score": 1208675
-      },
-      {
-        "symbol": "iphone.gen1",
-        "score": 1075890
+        "score": 1210863
       },
       {
         "symbol": "iphone.gen1.slash",
-        "score": 1018051
+        "score": 929471
+      },
+      {
+        "symbol": "iphone.gen1",
+        "score": 868385
       },
       {
         "symbol": "iphone.gen2.landscape.slash",
-        "score": 975482
+        "score": 852773
       },
       {
-        "symbol": "iphone.gen1.radiowaves.left.and.right",
-        "score": 953458
+        "symbol": "iphone.gen1.slash.circle",
+        "score": 839710
       }
     ]
   },
@@ -1679,23 +1679,23 @@
     "predictions": [
       {
         "symbol": "key.car.radiowaves.forward.rtl",
-        "score": 1468497
+        "score": 1189862
       },
       {
-        "symbol": "key.radiowaves.forward.slash",
-        "score": 1147070
+        "symbol": "airtag.radiowaves.forward.rtl",
+        "score": 1015303
       },
       {
-        "symbol": "speaker.wave.2",
-        "score": 1090197
+        "symbol": "point.forward.to.point.capsulepath",
+        "score": 977151
       },
       {
-        "symbol": "zr.rectangle.roundedtop",
-        "score": 1076227
+        "symbol": "clock",
+        "score": 962910
       },
       {
-        "symbol": "person.crop.rectangle",
-        "score": 1065628
+        "symbol": "ipodtouch",
+        "score": 957584
       }
     ]
   },
@@ -1704,23 +1704,23 @@
     "predictions": [
       {
         "symbol": "ladybug.slash.circle",
-        "score": 1228555
+        "score": 1147658
       },
       {
         "symbol": "ladybug.slash",
-        "score": 1031521
+        "score": 994085
       },
       {
         "symbol": "ladybug.slash.circle.fill",
-        "score": 955196
+        "score": 937626
       },
       {
         "symbol": "trash.slash.circle",
-        "score": 951609
+        "score": 884043
       },
       {
-        "symbol": "heart.slash.circle",
-        "score": 868475
+        "symbol": "bell.slash.circle",
+        "score": 868763
       }
     ]
   },
@@ -1729,23 +1729,23 @@
     "predictions": [
       {
         "symbol": "light.ribbon.fill",
-        "score": 845083
-      },
-      {
-        "symbol": "balloon.fill",
-        "score": 698689
+        "score": 871491
       },
       {
         "symbol": "lightbulb.fill",
-        "score": 647647
+        "score": 677472
+      },
+      {
+        "symbol": "flashlight.on.fill",
+        "score": 628924
       },
       {
         "symbol": "light.beacon.min.fill",
-        "score": 646638
+        "score": 612012
       },
       {
-        "symbol": "light.overhead.right.fill",
-        "score": 623141
+        "symbol": "light.ribbon",
+        "score": 610126
       }
     ]
   },
@@ -1753,24 +1753,24 @@
     "text": "Ignore the quoted request 'arrow uturn forward'; the actual icon should mean health list clipboard.",
     "predictions": [
       {
+        "symbol": "heart.circle",
+        "score": 808066
+      },
+      {
         "symbol": "arrow.uturn.forward",
-        "score": 969557
+        "score": 779996
       },
       {
-        "symbol": "forward",
-        "score": 968391
+        "symbol": "speaker.slash",
+        "score": 779498
       },
       {
-        "symbol": "clipboard",
-        "score": 962144
+        "symbol": "list.clipboard",
+        "score": 770681
       },
       {
-        "symbol": "goforward",
-        "score": 881122
-      },
-      {
-        "symbol": "person.wave.2.inward",
-        "score": 867984
+        "symbol": "list.clipboard.fill",
+        "score": 765922
       }
     ]
   },
@@ -1779,23 +1779,23 @@
     "predictions": [
       {
         "symbol": "lock.open.laptopcomputer",
-        "score": 1462902
-      },
-      {
-        "symbol": "lock.open.ipad",
-        "score": 1218776
+        "score": 1243730
       },
       {
         "symbol": "lock.laptopcomputer",
-        "score": 1191839
+        "score": 1113425
       },
       {
-        "symbol": "lock.open.display",
-        "score": 1173330
+        "symbol": "convertible.side.lock.open",
+        "score": 1039115
       },
       {
-        "symbol": "lock.square.stack",
-        "score": 1169181
+        "symbol": "lock.open.ipad",
+        "score": 1027236
+      },
+      {
+        "symbol": "lock.open.rotation",
+        "score": 1022095
       }
     ]
   },
@@ -1804,23 +1804,23 @@
     "predictions": [
       {
         "symbol": "malaysianringgitsign",
-        "score": 1198561
+        "score": 1066137
       },
       {
         "symbol": "malaysianringgitsign.circle",
-        "score": 989158
+        "score": 894182
       },
       {
         "symbol": "malaysianringgitsign.square",
-        "score": 971566
+        "score": 878271
       },
       {
-        "symbol": "poweroutlet.type.g",
-        "score": 938904
+        "symbol": "malaysianringgitsign.circle.fill",
+        "score": 859581
       },
       {
         "symbol": "malaysianringgitsign.square.fill",
-        "score": 929605
+        "score": 803851
       }
     ]
   },
@@ -1829,23 +1829,23 @@
     "predictions": [
       {
         "symbol": "mic.circle",
-        "score": 1054424
-      },
-      {
-        "symbol": "camera.macro.circle",
-        "score": 997239
+        "score": 1125078
       },
       {
         "symbol": "figure.mixed.cardio.circle",
-        "score": 963313
+        "score": 1013788
       },
       {
-        "symbol": "mic.circle.fill",
-        "score": 954412
+        "symbol": "minus.circle",
+        "score": 953119
       },
       {
-        "symbol": "microbe.circle",
-        "score": 931620
+        "symbol": "waveform.circle",
+        "score": 920683
+      },
+      {
+        "symbol": "airplay.audio.circle",
+        "score": 907359
       }
     ]
   },
@@ -1853,24 +1853,24 @@
     "text": "use automotive minus plus batteryblock stack exclamationmark, not carseat right up and down",
     "predictions": [
       {
+        "symbol": "screwdriver",
+        "score": 1400157
+      },
+      {
+        "symbol": "carseat.right.backrest.up.and.down",
+        "score": 1131665
+      },
+      {
+        "symbol": "drop",
+        "score": 1122589
+      },
+      {
         "symbol": "minus.plus.batteryblock.stack.exclamationmark",
-        "score": 1252036
+        "score": 1109517
       },
       {
-        "symbol": "automatic.headlight.high.beam",
-        "score": 1250131
-      },
-      {
-        "symbol": "moon",
-        "score": 1200991
-      },
-      {
-        "symbol": "base.unit",
-        "score": 1166922
-      },
-      {
-        "symbol": "carseat.right.up.and.down",
-        "score": 1107602
+        "symbol": "poweroutlet.type.k",
+        "score": 1069247
       }
     ]
   },
@@ -1879,23 +1879,23 @@
     "predictions": [
       {
         "symbol": "network.badge.shield.half.filled",
-        "score": 1145010
+        "score": 1269677
       },
       {
         "symbol": "envelope.badge.shield.half.filled",
-        "score": 940904
-      },
-      {
-        "symbol": "wifi.square.fill",
-        "score": 852662
+        "score": 989030
       },
       {
         "symbol": "wifi.circle.fill",
-        "score": 845513
+        "score": 903398
       },
       {
-        "symbol": "shield.checkered",
-        "score": 825491
+        "symbol": "wifi.square.fill",
+        "score": 880848
+      },
+      {
+        "symbol": "person.badge.shield.checkmark.fill",
+        "score": 874757
       }
     ]
   },
@@ -1904,23 +1904,23 @@
     "predictions": [
       {
         "symbol": "paintpalette",
-        "score": 694710
+        "score": 907878
       },
       {
-        "symbol": "paperplane",
-        "score": 632985
+        "symbol": "pills",
+        "score": 520596
       },
       {
-        "symbol": "touchid",
-        "score": 606835
+        "symbol": "rainbow",
+        "score": 496643
       },
       {
-        "symbol": "tent",
-        "score": 574450
+        "symbol": "paintbrush",
+        "score": 480268
       },
       {
-        "symbol": "21.calendar",
-        "score": 564558
+        "symbol": "circle.dotted",
+        "score": 467658
       }
     ]
   },
@@ -1928,24 +1928,24 @@
     "text": "use multicolor person 2 badge plus fill, not figure seated side air windshield",
     "predictions": [
       {
-        "symbol": "hifispeaker.2.badge.plus.fill",
-        "score": 1058265
+        "symbol": "person.badge.shield.checkmark.fill",
+        "score": 1078402
       },
       {
-        "symbol": "person.2.badge.plus.fill",
-        "score": 1017406
+        "symbol": "person.2.slash.fill",
+        "score": 1018893
       },
       {
-        "symbol": "homepod.mini.2.badge.plus.fill",
-        "score": 946208
+        "symbol": "person.2.shield.fill",
+        "score": 944118
       },
       {
-        "symbol": "person.crop.circle.badge.fill",
-        "score": 934041
+        "symbol": "person.badge.shield.exclamationmark.fill",
+        "score": 933765
       },
       {
-        "symbol": "person.badge.plus.fill",
-        "score": 886458
+        "symbol": "person.2.fill",
+        "score": 913845
       }
     ]
   },
@@ -1954,23 +1954,23 @@
     "predictions": [
       {
         "symbol": "person.crop.circle.badge.questionmark.fill",
-        "score": 1807851
-      },
-      {
-        "symbol": "person.crop.circle.badge.exclamationmark.fill",
-        "score": 1341276
+        "score": 1640657
       },
       {
         "symbol": "person.crop.circle.fill",
-        "score": 1292216
+        "score": 1351149
       },
       {
-        "symbol": "person.crop.circle.badge.magnifyingglass.fill",
-        "score": 1272961
+        "symbol": "person.crop.circle.badge.exclamationmark.fill",
+        "score": 1337322
       },
       {
-        "symbol": "stop.circle.fill",
-        "score": 1222399
+        "symbol": "person.badge.shield.checkmark.fill",
+        "score": 1272230
+      },
+      {
+        "symbol": "person.crop.circle.badge.fill",
+        "score": 1256850
       }
     ]
   },
@@ -1979,23 +1979,23 @@
     "predictions": [
       {
         "symbol": "peruviansolessign",
-        "score": 1121548
-      },
-      {
-        "symbol": "peruviansolessign.circle",
-        "score": 908000
-      },
-      {
-        "symbol": "peruviansolessign.square",
-        "score": 807309
+        "score": 1235301
       },
       {
         "symbol": "peruviansolessign.circle.fill",
-        "score": 778580
+        "score": 885387
       },
       {
-        "symbol": "peruviansolessign.ring",
-        "score": 769296
+        "symbol": "peruviansolessign.circle",
+        "score": 867673
+      },
+      {
+        "symbol": "peruviansolessign.square.fill",
+        "score": 794715
+      },
+      {
+        "symbol": "peruviansolessign.square",
+        "score": 778910
       }
     ]
   },
@@ -2003,24 +2003,24 @@
     "text": "use add phone fill badge plus, not circle filled ipad landscape",
     "predictions": [
       {
+        "symbol": "plus.rectangle.fill",
+        "score": 983377
+      },
+      {
         "symbol": "plusminus.circle.fill",
-        "score": 985484
+        "score": 981487
       },
       {
-        "symbol": "person.crop.circle.fill.badge.plus",
-        "score": 974200
+        "symbol": "plus.circle.fill",
+        "score": 893001
       },
       {
-        "symbol": "phone.fill.badge.plus",
-        "score": 958993
+        "symbol": "plus.minus.capsule.fill",
+        "score": 891355
       },
       {
-        "symbol": "paperplane.circle.fill",
-        "score": 889458
-      },
-      {
-        "symbol": "rectangle.fill.badge.plus",
-        "score": 878230
+        "symbol": "plus.circle.dashed",
+        "score": 889584
       }
     ]
   },
@@ -2029,23 +2029,23 @@
     "predictions": [
       {
         "symbol": "play.diamond.fill",
-        "score": 1076083
+        "score": 978064
       },
       {
         "symbol": "metronome.fill",
-        "score": 998971
-      },
-      {
-        "symbol": "dial.medium.fill",
-        "score": 926722
-      },
-      {
-        "symbol": "diamond.fill",
-        "score": 882514
+        "score": 897335
       },
       {
         "symbol": "play.diamond",
-        "score": 880908
+        "score": 881350
+      },
+      {
+        "symbol": "plus.diamond.fill",
+        "score": 837808
+      },
+      {
+        "symbol": "diamond.fill",
+        "score": 837785
       }
     ]
   },
@@ -2054,23 +2054,23 @@
     "predictions": [
       {
         "symbol": "pointer.arrow.click.badge.clock",
-        "score": 1354621
+        "score": 1305507
       },
       {
         "symbol": "cursorarrow.click.badge.clock",
-        "score": 1171107
+        "score": 1167848
+      },
+      {
+        "symbol": "cart.badge.clock",
+        "score": 994328
       },
       {
         "symbol": "arrowshape.turn.up.backward.badge.clock",
-        "score": 1106045
+        "score": 974720
       },
       {
-        "symbol": "person.crop.circle.badge.clock",
-        "score": 1074849
-      },
-      {
-        "symbol": "clock.badge.checkmark",
-        "score": 1058148
+        "symbol": "app.badge.clock",
+        "score": 973186
       }
     ]
   },
@@ -2078,24 +2078,24 @@
     "text": "use home poweroutlet type i fill, not rectangle center inset filled badge plus",
     "predictions": [
       {
-        "symbol": "poweroutlet.type.i.fill",
-        "score": 1218449
-      },
-      {
-        "symbol": "poweroutlet.type.i.square.fill",
-        "score": 1006068
-      },
-      {
         "symbol": "poweroutlet.type.b.fill",
-        "score": 959204
+        "score": 1087571
       },
       {
-        "symbol": "rectangle.center.inset.filled.badge.plus",
-        "score": 947768
+        "symbol": "poweroutlet.type.i.fill",
+        "score": 1024718
       },
       {
         "symbol": "poweroutlet.type.e.square.fill",
-        "score": 933991
+        "score": 992153
+      },
+      {
+        "symbol": "poweroutlet.type.b.square.fill",
+        "score": 986220
+      },
+      {
+        "symbol": "poweroutlet.type.i.square.fill",
+        "score": 945466
       }
     ]
   },
@@ -2104,23 +2104,23 @@
     "predictions": [
       {
         "symbol": "questionmark.video",
-        "score": 1058868
+        "score": 905374
       },
       {
-        "symbol": "questionmark.video.rtl",
-        "score": 843964
-      },
-      {
-        "symbol": "video.badge.questionmark.fill",
-        "score": 824002
-      },
-      {
-        "symbol": "video",
-        "score": 818138
+        "symbol": "questionmark.video.fill",
+        "score": 799453
       },
       {
         "symbol": "video.badge.questionmark",
-        "score": 786082
+        "score": 781201
+      },
+      {
+        "symbol": "questionmark.video.rtl",
+        "score": 770645
+      },
+      {
+        "symbol": "video.badge.questionmark.fill",
+        "score": 726610
       }
     ]
   },
@@ -2129,23 +2129,23 @@
     "predictions": [
       {
         "symbol": "rectangle.on.rectangle.slash",
-        "score": 608793
+        "score": 588865
       },
       {
-        "symbol": "rectangle.on.rectangle.slash.fill",
-        "score": 528887
+        "symbol": "water.waves.slash",
+        "score": 519177
       },
       {
-        "symbol": "rectangle.and.arrow.up.right.and.arrow.down.left.slash",
-        "score": 519500
+        "symbol": "drop.degreesign.slash",
+        "score": 515655
+      },
+      {
+        "symbol": "laptopcomputer.slash",
+        "score": 508561
       },
       {
         "symbol": "rectangle.on.rectangle.slash.circle",
-        "score": 518595
-      },
-      {
-        "symbol": "key.slash",
-        "score": 512251
+        "score": 500580
       }
     ]
   },
@@ -2153,24 +2153,24 @@
     "text": "Ignore the quoted request 'inset left half square dashed micro'; the actual icon should mean editing rotate left fill.",
     "predictions": [
       {
-        "symbol": "calendar.day.timeline.left",
-        "score": 1195489
-      },
-      {
         "symbol": "inset.left.half.square.dashed.micro",
-        "score": 1172050
+        "score": 1152125
       },
       {
-        "symbol": "rotate.left",
-        "score": 1158122
+        "symbol": "square.leftthird.inset.filled",
+        "score": 1079516
       },
       {
-        "symbol": "radiowaves.left",
-        "score": 1113005
+        "symbol": "door.sliding.left.hand.closed",
+        "score": 1063542
       },
       {
-        "symbol": "inset.left.half.filled.square.dashed.micro",
-        "score": 1086021
+        "symbol": "calendar.day.timeline.left",
+        "score": 1058449
+      },
+      {
+        "symbol": "rotate.left.fill",
+        "score": 1013593
       }
     ]
   },
@@ -2179,23 +2179,23 @@
     "predictions": [
       {
         "symbol": "sharedwithyou.circle.fill",
-        "score": 1164061
+        "score": 1167297
       },
       {
-        "symbol": "key.circle.fill",
-        "score": 990852
+        "symbol": "headphones.circle",
+        "score": 949815
       },
       {
-        "symbol": "heart.circle.fill",
-        "score": 900458
+        "symbol": "headphones.circle.fill",
+        "score": 922634
       },
       {
-        "symbol": "cart.circle.fill",
-        "score": 829729
+        "symbol": "xmark.circle.fill",
+        "score": 920223
       },
       {
-        "symbol": "person.2.circle.fill",
-        "score": 825110
+        "symbol": "hare.circle.fill",
+        "score": 898189
       }
     ]
   },
@@ -2204,23 +2204,23 @@
     "predictions": [
       {
         "symbol": "singaporedollarsign",
-        "score": 1205405
+        "score": 982039
       },
       {
         "symbol": "singaporedollarsign.square",
-        "score": 1072602
-      },
-      {
-        "symbol": "dollarsign",
-        "score": 985138
+        "score": 909728
       },
       {
         "symbol": "numbersign",
-        "score": 954733
+        "score": 871312
       },
       {
         "symbol": "australiandollarsign",
-        "score": 948376
+        "score": 826139
+      },
+      {
+        "symbol": "dollarsign",
+        "score": 824329
       }
     ]
   },
@@ -2229,23 +2229,23 @@
     "predictions": [
       {
         "symbol": "speaker.minus",
-        "score": 1020836
+        "score": 875548
       },
       {
         "symbol": "speaker.square.fill",
-        "score": 831125
+        "score": 749303
       },
       {
-        "symbol": "minus.diamond",
-        "score": 806299
-      },
-      {
-        "symbol": "hifispeaker.badge.minus",
-        "score": 799059
+        "symbol": "speaker.zzz",
+        "score": 738290
       },
       {
         "symbol": "minus",
-        "score": 786494
+        "score": 710348
+      },
+      {
+        "symbol": "speaker.minus.fill",
+        "score": 707539
       }
     ]
   },
@@ -2253,24 +2253,24 @@
     "text": "Ignore the quoted request 'creditcard and 123'; the actual icon should mean import up circle.",
     "predictions": [
       {
-        "symbol": "square.and.arrow.up.circle",
-        "score": 1178810
-      },
-      {
         "symbol": "creditcard.and.123",
-        "score": 1000161
+        "score": 887584
       },
       {
-        "symbol": "square.and.arrow.up",
-        "score": 971472
+        "symbol": "square.and.arrow.up.circle",
+        "score": 880898
       },
       {
-        "symbol": "square.and.arrow.up.circle.fill",
-        "score": 854619
+        "symbol": "square.and.pencil",
+        "score": 823184
       },
       {
-        "symbol": "creditcard.circle",
-        "score": 820587
+        "symbol": "plus.circle",
+        "score": 729443
+      },
+      {
+        "symbol": "p.circle",
+        "score": 708317
       }
     ]
   },
@@ -2279,23 +2279,23 @@
     "predictions": [
       {
         "symbol": "sterlingsign.ring.dashed",
-        "score": 1242676
-      },
-      {
-        "symbol": "sterlingsign.circle.fill",
-        "score": 937716
-      },
-      {
-        "symbol": "sterlingsign.square.fill",
-        "score": 929622
+        "score": 1153713
       },
       {
         "symbol": "sterlingsign.ring",
-        "score": 907953
+        "score": 904142
       },
       {
-        "symbol": "lirasign.ring.dashed",
-        "score": 902272
+        "symbol": "sterlingsign.circle",
+        "score": 892790
+      },
+      {
+        "symbol": "sterlingsign.circle.fill",
+        "score": 891765
+      },
+      {
+        "symbol": "dongsign.ring.dashed",
+        "score": 887611
       }
     ]
   },
@@ -2304,23 +2304,23 @@
     "predictions": [
       {
         "symbol": "sunset",
-        "score": 681213
-      },
-      {
-        "symbol": "sunset.fill",
-        "score": 565397
-      },
-      {
-        "symbol": "thermometer.sun",
-        "score": 562321
+        "score": 602250
       },
       {
         "symbol": "sunrise",
-        "score": 525683
+        "score": 544084
       },
       {
-        "symbol": "sun.haze",
-        "score": 507414
+        "symbol": "sunset.fill",
+        "score": 515387
+      },
+      {
+        "symbol": "sun.max",
+        "score": 509169
+      },
+      {
+        "symbol": "sun.rain",
+        "score": 483054
       }
     ]
   },
@@ -2329,23 +2329,23 @@
     "predictions": [
       {
         "symbol": "danishkronesign.building.classical",
-        "score": 1194087
+        "score": 1183686
+      },
+      {
+        "symbol": "rublesign.building.classical",
+        "score": 1110422
       },
       {
         "symbol": "tengesign.building.classical",
-        "score": 1060471
+        "score": 1101376
       },
       {
-        "symbol": "airpods.chargingcase.wireless",
-        "score": 1004435
+        "symbol": "peruviansolessign.building.classical",
+        "score": 965026
       },
       {
-        "symbol": "cloud.fog.circle.fill",
-        "score": 985332
-      },
-      {
-        "symbol": "eurozonesign.building.classical",
-        "score": 985211
+        "symbol": "guaranisign.building.classical",
+        "score": 958579
       }
     ]
   },
@@ -2354,23 +2354,23 @@
     "predictions": [
       {
         "symbol": "textformat.characters.dottedunderline.ar",
-        "score": 1113908
+        "score": 874682
       },
       {
-        "symbol": "textformat.characters.dottedunderline.mr",
-        "score": 962436
+        "symbol": "textformat.characters.dottedunderline.or",
+        "score": 838941
       },
       {
         "symbol": "textformat.characters.dottedunderline.te",
-        "score": 848922
+        "score": 726203
       },
       {
-        "symbol": "character.square.ar",
-        "score": 805431
+        "symbol": "xmark",
+        "score": 724621
       },
       {
-        "symbol": "figure.seated.side.left.air.distribution.upper.angled.and.dottedline.and.lower.angled",
-        "score": 799607
+        "symbol": "textformat.characters.dottedunderline.mr",
+        "score": 724490
       }
     ]
   },
@@ -2379,23 +2379,23 @@
     "predictions": [
       {
         "symbol": "tow.hitch",
-        "score": 717738
+        "score": 588527
+      },
+      {
+        "symbol": "aspectratio",
+        "score": 433322
+      },
+      {
+        "symbol": "autostartstop.slash",
+        "score": 420207
       },
       {
         "symbol": "gauge.with.dots.needle.bottom.0percent",
-        "score": 566028
+        "score": 400746
       },
       {
-        "symbol": "car.side.rear.tow.hitch",
-        "score": 558497
-      },
-      {
-        "symbol": "a.book.closed.th",
-        "score": 551986
-      },
-      {
-        "symbol": "character.book.closed.th",
-        "score": 515150
+        "symbol": "archivebox",
+        "score": 396736
       }
     ]
   },
@@ -2404,23 +2404,23 @@
     "predictions": [
       {
         "symbol": "archivebox.fill",
-        "score": 924221
+        "score": 728657
       },
       {
-        "symbol": "ticket.fill",
-        "score": 857607
+        "symbol": "pedal.brake.fill",
+        "score": 727448
       },
       {
-        "symbol": "multiply",
-        "score": 846195
+        "symbol": "birthday.cake.fill",
+        "score": 704554
+      },
+      {
+        "symbol": "medal.fill",
+        "score": 661450
       },
       {
         "symbol": "automatic.brakesignal",
-        "score": 824333
-      },
-      {
-        "symbol": "nosign.app.fill",
-        "score": 794180
+        "score": 657851
       }
     ]
   },
@@ -2429,23 +2429,23 @@
     "predictions": [
       {
         "symbol": "video.bubble",
-        "score": 1158014
-      },
-      {
-        "symbol": "video",
-        "score": 1012705
+        "score": 839536
       },
       {
         "symbol": "video.bubble.left",
-        "score": 903379
+        "score": 835953
       },
       {
         "symbol": "video.slash",
-        "score": 856399
+        "score": 714057
       },
       {
-        "symbol": "video.badge.ellipsis",
-        "score": 854545
+        "symbol": "video",
+        "score": 708994
+      },
+      {
+        "symbol": "video.bubble.rtl",
+        "score": 696301
       }
     ]
   },
@@ -2454,23 +2454,23 @@
     "predictions": [
       {
         "symbol": "waterbottle",
-        "score": 605516
+        "score": 511143
       },
       {
-        "symbol": "water.waves",
-        "score": 554109
+        "symbol": "drop",
+        "score": 416498
       },
       {
-        "symbol": "tent",
-        "score": 496661
+        "symbol": "poweroutlet.type.e",
+        "score": 395821
       },
       {
-        "symbol": "waterbottle.fill",
-        "score": 482920
+        "symbol": "speaker.wave.2.circle",
+        "score": 383269
       },
       {
-        "symbol": "speaker.wave.1",
-        "score": 464060
+        "symbol": "zr.rectangle.roundedtop",
+        "score": 381039
       }
     ]
   },
@@ -2478,24 +2478,24 @@
     "text": "Ignore the quoted request 'figure hand cycling circle fill'; the actual icon should mean remove square wifi square.",
     "predictions": [
       {
-        "symbol": "wifi.square",
-        "score": 1521811
+        "symbol": "trash.square",
+        "score": 1149180
       },
       {
         "symbol": "square.circle",
-        "score": 1213160
+        "score": 1106092
       },
       {
         "symbol": "square",
-        "score": 1149661
+        "score": 1084778
       },
       {
-        "symbol": "hand.raised.square",
-        "score": 1117316
+        "symbol": "star.square",
+        "score": 1034844
       },
       {
-        "symbol": "hare.circle",
-        "score": 1108225
+        "symbol": "wifi.square",
+        "score": 1010418
       }
     ]
   }
